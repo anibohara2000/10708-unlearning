@@ -1,0 +1,1001 @@
+image_name,category_top1,index_top1,scores_top1,category_top2,index_top2,scores_top2,category_top3,index_top3,scores_top3,category_top4,index_top4,scores_top4,category_top5,index_top5,scores_top5
+golfball_64.jpg,golf ball,574,0.439451,baseball,429,0.0029674543,thimble,855,0.0028352072,black grouse,80,0.0018063502,tennis ball,852,0.001439955
+parachute_58.jpg,parachute,701,0.30753028,balloon,417,0.0048855767,sleeping bag,797,0.0033138064,bib,443,0.0030556817,flagpole,557,0.0022079635
+golfball_70.jpg,golf ball,574,0.45019284,thimble,855,0.0032377224,honeycomb,599,0.0018854586,vase,883,0.0015051524,strainer,828,0.0014853437
+frenchhorn_98.jpg,French horn,566,0.45446643,wardrobe,894,0.002053021,bassoon,432,0.0018433399,mixing bowl,659,0.0014985596,chocolate sauce,960,0.0013979579
+parachute_70.jpg,parachute,701,0.37844464,balloon,417,0.040622715,umbrella,879,0.0023771387,coil,506,0.0018247529,airship,405,0.0015194098
+golfball_58.jpg,golf ball,574,0.51978064,red wine,966,0.0023164917,goblet,572,0.0022350335,balloon,417,0.0018542063,vase,883,0.0015937543
+church_13.jpg,altar,406,0.35742813,church,497,0.16628198,vault,884,0.033901326,organ,687,0.032015078,monastery,663,0.00265418
+parachute_64.jpg,parachute,701,0.4804472,flagpole,557,0.0023731985,balloon,417,0.0021342356,ant,310,0.0019850633,hamster,333,0.0013720363
+frenchhorn_67.jpg,French horn,566,0.46509495,cornet,513,0.0056356755,carpenter's kit,477,0.0019940145,oboe,683,0.0018531329,rocking chair,765,0.0014659767
+frenchhorn_73.jpg,French horn,566,0.6383027,cornet,513,0.0023186412,nematode,111,0.0012267723,caldron,469,0.0011961996,vault,884,0.0011361804
+chainsaw_35.jpg,rule,769,0.10006065,hatchet,596,0.035018824,chain saw,491,0.026637034,fox squirrel,335,0.019672234,worm fence,912,0.019265287
+chainsaw_21.jpg,rule,769,0.16111237,syringe,845,0.04089034,chain saw,491,0.039877538,scabbard,777,0.03180065,wool,911,0.016123075
+garbagetruck_4.jpg,garbage truck,569,0.6018227,crane,517,0.014280622,fire engine,555,0.013409062,school bus,779,0.0128127895,snowplow,803,0.011124513
+gaspump_28.jpg,vending machine,886,0.12186632,gas pump,571,0.06742213,cash machine,480,0.041608937,pay-phone,707,0.030203344,ashcan,412,0.02317531
+church_8.jpg,church,497,0.5291951,bell cote,442,0.04959886,vault,884,0.0177572,monastery,663,0.01572771,altar,406,0.010791394
+englishspringer_22.jpg,crate,519,0.17694508,library,624,0.16810808,plate rack,729,0.058906816,bookcase,453,0.04556209,file,553,0.025919061
+gaspump_14.jpg,gas pump,571,0.37089843,vending machine,886,0.058326475,pay-phone,707,0.04733103,cash machine,480,0.024037357,parking meter,704,0.010922578
+englishspringer_36.jpg,palace,698,0.15451905,library,624,0.05956354,lakeside,975,0.03362876,castle,483,0.023979835,window screen,904,0.01833172
+cassetteplayer_87.jpg,tape player,848,0.12425063,radio,754,0.113763265,cassette player,482,0.081020154,cassette,481,0.06070314,CD player,485,0.056592345
+tench_57.jpg,tench,0,0.31960467,barracouta,389,0.022652294,coho,391,0.011208685,goldfish,1,0.007784776,reel,758,0.0068633007
+tench_43.jpg,tench,0,0.13170819,barracouta,389,0.098697245,reel,758,0.06488505,gar,395,0.04801725,coho,391,0.02960176
+cassetteplayer_93.jpg,tape player,848,0.26249015,cassette player,482,0.1761307,cassette,481,0.028467016,radio,754,0.02090152,CD player,485,0.013744504
+garbagetruck_66.jpg,garbage truck,569,0.30443767,snowplow,803,0.047289714,tow truck,864,0.02662012,trailer truck,867,0.017631544,crane,517,0.014974493
+garbagetruck_72.jpg,fire engine,555,0.089467034,garbage truck,569,0.085232966,trailer truck,867,0.04839945,snowplow,803,0.034752205,tow truck,864,0.020895714
+cassetteplayer_44.jpg,tape player,848,0.27545238,cassette player,482,0.12895186,CD player,485,0.06272676,Polaroid camera,732,0.049929544,radio,754,0.025845835
+tench_94.jpg,tench,0,0.43083265,barracouta,389,0.036592476,gar,395,0.031179545,reel,758,0.010095419,coho,391,0.009727786
+garbagetruck_99.jpg,garbage truck,569,0.13119416,minibus,654,0.046035606,ambulance,407,0.033310626,police van,734,0.026513778,fire engine,555,0.019909084
+tench_80.jpg,hook,600,0.019542562,kite,21,0.015317198,parachute,701,0.013550848,microphone,650,0.013373668,matchstick,644,0.012826039
+cassetteplayer_50.jpg,cassette,481,0.18422279,tape player,848,0.13151234,cassette player,482,0.07684149,radio,754,0.019225998,CD player,485,0.011046599
+cassetteplayer_78.jpg,tape player,848,0.19849698,cassette player,482,0.09301592,radio,754,0.08314318,CD player,485,0.047213644,oscilloscope,688,0.02083549
+cassetteplayer_79.jpg,CD player,485,0.13067697,tape player,848,0.10026223,radio,754,0.09165104,cassette,481,0.07552386,analog clock,409,0.05886074
+tench_81.jpg,tench,0,0.60562164,eel,390,0.0330464,barracouta,389,0.0030474442,reel,758,0.002688278,coho,391,0.002101607
+cassetteplayer_51.jpg,tape player,848,0.13393542,cassette player,482,0.07617471,Polaroid camera,732,0.040985506,CD player,485,0.032867517,loudspeaker,632,0.03049714
+cassetteplayer_45.jpg,cassette,481,0.24371557,tape player,848,0.17099105,cassette player,482,0.110858165,CD player,485,0.017739551,radio,754,0.012059721
+garbagetruck_98.jpg,garbage truck,569,0.4189114,trailer truck,867,0.02512221,snowplow,803,0.0048208907,tow truck,864,0.004690274,barrel,427,0.0032858849
+tench_95.jpg,gar,395,0.114978276,banded gecko,38,0.044478957,barracouta,389,0.039800435,coho,391,0.03557239,American chameleon,40,0.035028156
+garbagetruck_73.jpg,garbage truck,569,0.18819685,trailer truck,867,0.06815164,crane,517,0.05941407,school bus,779,0.03701157,moving van,675,0.022361917
+garbagetruck_67.jpg,garbage truck,569,0.6089097,snowplow,803,0.011249051,moving van,675,0.0044820774,ashcan,412,0.0024517481,crane,517,0.0020646155
+tench_42.jpg,tench,0,0.18285395,rock beauty,392,0.0812821,barracouta,389,0.05526637,gar,395,0.041789774,coral reef,973,0.018438473
+cassetteplayer_92.jpg,radio,754,0.22022645,loudspeaker,632,0.12252154,tape player,848,0.026625276,safe,771,0.024003055,cassette player,482,0.023512146
+cassetteplayer_86.jpg,tape player,848,0.20423566,cassette,481,0.19046019,cassette player,482,0.123689376,Polaroid camera,732,0.006551931,CD player,485,0.0050928826
+tench_56.jpg,tench,0,0.5082003,barracouta,389,0.008830094,rock beauty,392,0.0045883656,reel,758,0.0045860517,goldfish,1,0.0035392498
+englishspringer_37.jpg,mountain bike,671,0.08311709,unicycle,880,0.061798576,stone wall,825,0.052898508,mountain tent,672,0.03827023,lakeside,975,0.031500787
+gaspump_15.jpg,gas pump,571,0.17791559,pay-phone,707,0.11627766,turnstile,877,0.036125828,cash machine,480,0.029589772,parking meter,704,0.022223154
+englishspringer_23.jpg,wool,911,0.2569709,prayer rug,741,0.24040864,buckle,464,0.024075748,sarong,775,0.014639422,cardigan,474,0.013364326
+church_9.jpg,church,497,0.34932312,bell cote,442,0.049645867,monastery,663,0.019344268,vault,884,0.008771209,dome,538,0.0047365907
+gaspump_29.jpg,gas pump,571,0.22101155,pay-phone,707,0.014189169,vending machine,886,0.0057080104,cash machine,480,0.0054813754,dial telephone,528,0.0022794425
+garbagetruck_5.jpg,ambulance,407,0.2478602,recreational vehicle,757,0.21314579,tow truck,864,0.045361713,police van,734,0.023523184,garbage truck,569,0.020634038
+chainsaw_20.jpg,chain saw,491,0.45272595,rule,769,0.008542694,screwdriver,784,0.006147608,scabbard,777,0.0046906425,hammer,587,0.0043985536
+chainsaw_34.jpg,chain saw,491,0.20255151,rule,769,0.02439852,dumbbell,543,0.011563545,power drill,740,0.009785974,gas pump,571,0.009554874
+frenchhorn_72.jpg,French horn,566,0.3756531,cornet,513,0.005190403,trombone,875,0.0018681327,bassoon,432,0.0017139608,oboe,683,0.0015637456
+frenchhorn_66.jpg,French horn,566,0.5376188,cornet,513,0.03025867,trombone,875,0.0028202068,buckle,464,0.0012695871,bassoon,432,0.0012160044
+parachute_65.jpg,parachute,701,0.43876988,balloon,417,0.006339604,sulphur butterfly,325,0.0021376798,seashore,978,0.0018112173,thatch,853,0.0017640156
+frenchhorn_99.jpg,French horn,566,0.46092373,cornet,513,0.02420246,trombone,875,0.004258863,racket,752,0.0028979662,oboe,683,0.0020589714
+church_12.jpg,church,497,0.48018762,bell cote,442,0.081377484,monastery,663,0.011863303,vault,884,0.0048160427,castle,483,0.0022329434
+golfball_59.jpg,golf ball,574,0.44195974,thimble,855,0.0035220548,strainer,828,0.0017337524,cup,968,0.0015917926,vase,883,0.0014323489
+parachute_71.jpg,parachute,701,0.5005178,balloon,417,0.008696248,rapeseed,984,0.0033583725,umbrella,879,0.0015845563,airship,405,0.0013158588
+golfball_71.jpg,golf ball,574,0.432288,ping-pong ball,722,0.0045222063,hermit crab,125,0.0044784555,dung beetle,305,0.004394011,leatherback turtle,34,0.003859271
+parachute_59.jpg,parachute,701,0.47898698,balloon,417,0.0014333434,seashore,978,0.0012679278,ant,310,0.0012208337,long-horned beetle,303,0.0009626088
+golfball_65.jpg,lakeside,975,0.105357066,valley,979,0.09721195,castle,483,0.069758505,maze,646,0.06829759,palace,698,0.034769673
+golfball_73.jpg,golf ball,574,0.41891345,knee pad,615,0.0011974294,thimble,855,0.0011464257,vase,883,0.0011354947,water jug,899,0.0011058202
+church_38.jpg,vault,884,0.3299708,church,497,0.08381144,monastery,663,0.04234053,altar,406,0.026694393,organ,687,0.015428756
+golfball_67.jpg,golf ball,574,0.48004013,ballplayer,981,0.0015431865,binder,446,0.0014482869,malamute,249,0.0013038554,weasel,356,0.0011348757
+parachute_67.jpg,parachute,701,0.6264916,balloon,417,0.019318309,lampshade,619,0.007892144,table lamp,846,0.00313973,flagpole,557,0.0018487927
+parachute_73.jpg,balloon,417,0.33488184,parachute,701,0.188065,coil,506,0.012661613,maze,646,0.0067919977,carousel,476,0.003462236
+church_10.jpg,church,497,0.6392201,monastery,663,0.043947726,altar,406,0.021772286,bell cote,442,0.011532195,vault,884,0.007051974
+frenchhorn_70.jpg,French horn,566,0.512362,vault,884,0.0018735953,chain,488,0.0016580726,spiny lobster,123,0.001468062,coil,506,0.0014285031
+parachute_98.jpg,parachute,701,0.5921232,balloon,417,0.0014393012,racer,751,0.0012997735,puck,746,0.0009622824,disk brake,535,0.00082118285
+frenchhorn_64.jpg,French horn,566,0.42704177,vase,883,0.0019760611,wine bottle,907,0.0019228482,oboe,683,0.0017730519,electric guitar,546,0.0016388044
+chainsaw_22.jpg,rule,769,0.21582915,chain saw,491,0.04736742,scabbard,777,0.036379844,hammer,587,0.022492846,slide rule,798,0.018366251
+golfball_98.jpg,golf ball,574,0.40949196,tennis ball,852,0.0011330997,Pekinese,154,0.0010935254,thimble,855,0.001036394,running shoe,770,0.0009640104
+chainsaw_36.jpg,chain saw,491,0.57729185,go-kart,573,0.05098877,power drill,740,0.015184143,lawn mower,621,0.010183137,carpenter's kit,477,0.005727291
+frenchhorn_58.jpg,French horn,566,0.47893813,cornet,513,0.022364235,carpenter's kit,477,0.0012210556,bassoon,432,0.001165867,electric guitar,546,0.0011258975
+garbagetruck_7.jpg,garbage truck,569,0.42477074,trailer truck,867,0.032566454,snowplow,803,0.025301024,crane,517,0.009855942,tow truck,864,0.009761801
+englishspringer_35.jpg,tray,868,0.42200837,jigsaw puzzle,611,0.13622212,quilt,750,0.013661554,envelope,549,0.013412548,pencil box,709,0.013212753
+englishspringer_21.jpg,prison,743,0.07668206,monastery,663,0.060751945,vault,884,0.054382417,castle,483,0.04043033,bell cote,442,0.021891728
+gaspump_17.jpg,gas pump,571,0.4955771,cash machine,480,0.023502585,vending machine,886,0.0123540955,mailbox,637,0.0042007207,pay-phone,707,0.0028896914
+cassetteplayer_90.jpg,CD player,485,0.12730101,radio,754,0.097771734,cassette,481,0.095159106,tape player,848,0.094276495,cassette player,482,0.08123906
+tench_40.jpg,tench,0,0.3841478,barracouta,389,0.030883852,goldfish,1,0.02218497,rock beauty,392,0.018807156,reel,758,0.018302357
+garbagetruck_59.jpg,garbage truck,569,0.42628852,trailer truck,867,0.049096607,crane,517,0.016224138,snowplow,803,0.009815071,fire engine,555,0.0055337707
+tench_54.jpg,tench,0,0.45263058,barracouta,389,0.073346116,gar,395,0.011927777,sturgeon,394,0.006993048,coho,391,0.0040324344
+cassetteplayer_84.jpg,tape player,848,0.2583965,cassette,481,0.23901749,cassette player,482,0.236026,CD player,485,0.008974897,radio,754,0.00840414
+garbagetruck_71.jpg,garbage truck,569,0.23994207,trailer truck,867,0.1230658,moving van,675,0.0835283,crane,517,0.013574573,snowplow,803,0.005955053
+garbagetruck_65.jpg,garbage truck,569,0.34417412,trailer truck,867,0.07304216,snowplow,803,0.045452196,crane,517,0.028554609,moving van,675,0.018428436
+tench_68.jpg,tench,0,0.28769615,gar,395,0.039151363,eel,390,0.035746276,barracouta,389,0.03503777,reel,758,0.024422858
+cassetteplayer_53.jpg,tape player,848,0.19162525,cassette player,482,0.10497464,CD player,485,0.08060026,radio,754,0.07990258,cassette,481,0.02007336
+tench_83.jpg,tench,0,0.18355767,barracouta,389,0.070191324,gar,395,0.057096336,reel,758,0.015214062,coho,391,0.008089015
+tench_97.jpg,tench,0,0.38258135,flatworm,110,0.07307374,eel,390,0.015365188,mushroom,947,0.015334279,slug,114,0.012020413
+cassetteplayer_47.jpg,tape player,848,0.17639954,cassette player,482,0.12402011,CD player,485,0.06553585,radio,754,0.0489288,cassette,481,0.02841728
+tench_96.jpg,tench,0,0.51761466,barracouta,389,0.06291889,reel,758,0.014868785,electric ray,5,0.013603556,gar,395,0.012000864
+cassetteplayer_46.jpg,radio,754,0.164065,tape player,848,0.13089786,cassette player,482,0.09753648,CD player,485,0.08392968,cassette,481,0.03788347
+cassetteplayer_52.jpg,radio,754,0.12326845,CD player,485,0.10602848,cassette player,482,0.09684923,tape player,848,0.09544233,cassette,481,0.018796634
+tench_82.jpg,tench,0,0.19642799,barracouta,389,0.17419931,gar,395,0.09384054,coho,391,0.049845748,goldfish,1,0.017671632
+tench_69.jpg,tench,0,0.46230015,eel,390,0.0031381247,zucchini,939,0.0029780867,flatworm,110,0.0023686972,cucumber,943,0.002142058
+garbagetruck_64.jpg,garbage truck,569,0.39732525,trailer truck,867,0.034084186,tow truck,864,0.030563127,fire engine,555,0.02263959,crane,517,0.022495741
+garbagetruck_70.jpg,garbage truck,569,0.37277102,trailer truck,867,0.020024499,snowplow,803,0.0063546933,crane,517,0.0046045915,tow truck,864,0.0037236947
+tench_55.jpg,tench,0,0.38549694,coho,391,0.035926286,barracouta,389,0.01769068,rock beauty,392,0.01065363,reel,758,0.010588738
+garbagetruck_58.jpg,garbage truck,569,0.272744,trailer truck,867,0.12825187,fire engine,555,0.10033557,tow truck,864,0.06977353,crane,517,0.019852808
+cassetteplayer_85.jpg,tape player,848,0.13056077,CD player,485,0.11988673,radio,754,0.08812738,cassette player,482,0.07468462,loudspeaker,632,0.048573162
+cassetteplayer_91.jpg,tape player,848,0.1383652,oscilloscope,688,0.078721434,cassette player,482,0.066277735,cassette,481,0.0448091,radio,754,0.041699037
+tench_41.jpg,gar,395,0.16373871,tench,0,0.09956756,sea lion,150,0.055088226,barracouta,389,0.044909183,eel,390,0.044279873
+gaspump_16.jpg,cash machine,480,0.16830689,gas pump,571,0.16068664,vending machine,886,0.015236054,pay-phone,707,0.01469733,mailbox,637,0.006096081
+englishspringer_20.jpg,barn,425,0.10959013,prison,743,0.08376575,worm fence,912,0.080226764,freight car,565,0.022563994,barbershop,424,0.019959863
+englishspringer_34.jpg,tray,868,0.2336317,fire screen,556,0.15072231,book jacket,921,0.06584395,window screen,904,0.049021702,lighter,626,0.028842276
+garbagetruck_6.jpg,garbage truck,569,0.4619126,snowplow,803,0.024977295,crane,517,0.020606259,trailer truck,867,0.014327485,school bus,779,0.008314589
+chainsaw_37.jpg,chain saw,491,0.6695636,ski mask,796,0.001824099,stretcher,830,0.001657553,harvester,595,0.0016014044,mountain bike,671,0.0014779705
+golfball_99.jpg,sea urchin,328,0.19735256,custard apple,956,0.08454586,coral reef,973,0.056177177,jackfruit,955,0.04362544,brain coral,109,0.0146348635
+frenchhorn_59.jpg,French horn,566,0.59526515,cornet,513,0.0017760125,vault,884,0.0011408736,bassoon,432,0.0009949956,oboe,683,0.00095179304
+chainsaw_23.jpg,chain saw,491,0.06839158,shovel,792,0.066596985,cleaver,499,0.03412086,hatchet,596,0.02953868,scabbard,777,0.028079841
+frenchhorn_65.jpg,French horn,566,0.47899622,cornet,513,0.0017503492,electric guitar,546,0.001363168,vault,884,0.0012573354,bassoon,432,0.0012260915
+frenchhorn_71.jpg,French horn,566,0.4855809,cornet,513,0.0030530428,bassoon,432,0.0014297852,electric guitar,546,0.0012436246,oboe,683,0.0010758702
+parachute_99.jpg,quill,749,0.22523962,parachute,701,0.11550341,knot,616,0.039934807,paddle,693,0.023453813,balloon,417,0.022201087
+church_11.jpg,church,497,0.44038886,altar,406,0.10533771,vault,884,0.039726425,monastery,663,0.007961387,organ,687,0.006291489
+parachute_72.jpg,parachute,701,0.3730938,alp,970,0.037292928,valley,979,0.0060631563,volcano,980,0.005623041,ski,795,0.0039041005
+parachute_66.jpg,parachute,701,0.6275204,balloon,417,0.014303896,airship,405,0.0018452608,valley,979,0.0015865397,Lakeland terrier,189,0.0012937622
+golfball_66.jpg,golf ball,574,0.40431637,thimble,855,0.002486532,croquet ball,522,0.0024530394,ping-pong ball,722,0.002438499,pool table,736,0.0019323532
+church_39.jpg,church,497,0.3692418,monastery,663,0.05837614,bell cote,442,0.0464055,vault,884,0.0053227386,dome,538,0.0043991082
+golfball_72.jpg,golf ball,574,0.3429841,baseball,429,0.004370314,ballplayer,981,0.0039736168,doormat,539,0.0035417865,tennis ball,852,0.0030594864
+parachute_62.jpg,balloon,417,0.5442513,parachute,701,0.009671796,carousel,476,0.0021964505,wing,908,0.0018671689,black grouse,80,0.0017624872
+parachute_76.jpg,parachute,701,0.4481705,balloon,417,0.020522576,cradle,516,0.0025822953,bassinet,431,0.0024062672,lampshade,619,0.001466009
+church_15.jpg,vault,884,0.4189203,altar,406,0.09028947,church,497,0.05267445,monastery,663,0.0408431,organ,687,0.009518451
+golfball_76.jpg,golf ball,574,0.38795635,microphone,650,0.02599554,planetarium,727,0.004643845,loudspeaker,632,0.0036759858,thimble,855,0.0034774523
+golfball_62.jpg,golf ball,574,0.45359194,goblet,572,0.0023627474,tennis ball,852,0.0010221871,stopwatch,826,0.0009835566,goose,99,0.000946716
+church_29.jpg,vault,884,0.2805997,church,497,0.11372903,altar,406,0.10140618,monastery,663,0.028722461,organ,687,0.02737497
+chainsaw_27.jpg,chain,488,0.16777658,chain saw,491,0.03475508,street sign,919,0.020892372,mailbox,637,0.013188856,padlock,695,0.011962292
+golfball_89.jpg,golf ball,574,0.53869545,ping-pong ball,722,0.0014761887,manhole cover,640,0.0013467012,baseball,429,0.0012560036,fountain,562,0.0011508943
+frenchhorn_49.jpg,French horn,566,0.5269395,cornet,513,0.0041882563,trombone,875,0.0025163114,bearskin,439,0.0019966073,bassoon,432,0.0018332849
+chainsaw_33.jpg,chain saw,491,0.48905393,power drill,740,0.019482203,motor scooter,670,0.010452709,neck brace,678,0.00949096,cliff,972,0.0061544576
+frenchhorn_75.jpg,French horn,566,0.41545582,vault,884,0.002108555,bassoon,432,0.001552801,mixing bowl,659,0.0015090189,nematode,111,0.0014639721
+frenchhorn_61.jpg,French horn,566,0.3807104,cornet,513,0.0070652636,bassoon,432,0.002561311,trombone,875,0.002376341,magnetic compass,635,0.001900336
+parachute_89.jpg,parachute,701,0.48547202,alp,970,0.009757124,pill bottle,720,0.0033727163,nematode,111,0.0031454535,valley,979,0.0027901477
+garbagetruck_2.jpg,garbage truck,569,0.09846454,trailer truck,867,0.0940266,moving van,675,0.08442415,crane,517,0.027249759,mobile home,660,0.01677352
+englishspringer_30.jpg,library,624,0.11827585,window screen,904,0.078311525,window shade,905,0.067034766,bookcase,453,0.044243522,palace,698,0.0270481
+englishspringer_24.jpg,mobile home,660,0.09103453,patio,706,0.09069489,picket fence,716,0.0159069,worm fence,912,0.014016006,boathouse,449,0.01286566
+gaspump_12.jpg,gas pump,571,0.28394252,cash machine,480,0.03854671,vending machine,886,0.018187689,pay-phone,707,0.011331007,scale,778,0.009843069
+englishspringer_18.jpg,pole,733,0.041825067,boathouse,449,0.028300943,lakeside,975,0.024485448,flagpole,557,0.023957904,solar dish,807,0.019349556
+garbagetruck_74.jpg,garbage truck,569,0.34374648,tow truck,864,0.04507756,snowplow,803,0.030266153,crane,517,0.029515682,trailer truck,867,0.026994802
+tench_79.jpg,tench,0,0.37879017,barracouta,389,0.03229611,gar,395,0.012409465,reel,758,0.007846948,coho,391,0.0055636084
+garbagetruck_60.jpg,garbage truck,569,0.21229832,trailer truck,867,0.09909507,moving van,675,0.030488573,missile,657,0.026741177,projectile,744,0.020317838
+garbagetruck_48.jpg,moving van,675,0.13758329,trailer truck,867,0.11526669,garbage truck,569,0.10222069,fire engine,555,0.08176946,tow truck,864,0.050225183
+tench_45.jpg,hair slide,584,0.07298986,barracouta,389,0.054101814,coho,391,0.038825743,eel,390,0.035995424,gar,395,0.03409649
+cassetteplayer_95.jpg,tape player,848,0.30654332,cassette player,482,0.10692013,Polaroid camera,732,0.06497321,cassette,481,0.050493885,CD player,485,0.027248604
+cassetteplayer_81.jpg,tape player,848,0.13690944,radio,754,0.113165826,cassette player,482,0.10250988,CD player,485,0.06988116,cassette,481,0.022261668
+tench_51.jpg,tench,0,0.35269597,gar,395,0.09895524,barracouta,389,0.034243297,coho,391,0.020652398,sturgeon,394,0.006906828
+tench_86.jpg,gar,395,0.18014833,tench,0,0.1313235,barracouta,389,0.062939376,coho,391,0.050631173,reel,758,0.023973593
+cassetteplayer_56.jpg,tape player,848,0.23088057,cassette player,482,0.12051274,cassette,481,0.07071345,CD player,485,0.06213438,radio,754,0.012367396
+cassetteplayer_42.jpg,tape player,848,0.27169085,cassette player,482,0.1017871,CD player,485,0.09541099,radio,754,0.037488293,cassette,481,0.01018361
+tench_92.jpg,slug,114,0.12236899,flatworm,110,0.09760299,sea slug,115,0.039805498,tench,0,0.020242713,electric ray,5,0.015402235
+cassetteplayer_43.jpg,radio,754,0.22375445,cassette player,482,0.09312585,CD player,485,0.09105322,tape player,848,0.06921364,loudspeaker,632,0.026641188
+tench_93.jpg,tench,0,0.0749784,barracouta,389,0.047695316,gar,395,0.031426396,rock beauty,392,0.02871287,electric ray,5,0.026039945
+tench_87.jpg,tench,0,0.1445282,slug,114,0.14015128,reel,758,0.023486428,barracouta,389,0.021673039,rock beauty,392,0.015238078
+cassetteplayer_57.jpg,cassette,481,0.117787935,Polaroid camera,732,0.077226296,reflex camera,759,0.06271215,tape player,848,0.058690187,cassette player,482,0.040093828
+cassetteplayer_80.jpg,tape player,848,0.27838826,cassette player,482,0.08463002,radio,754,0.07582743,CD player,485,0.048318323,cassette,481,0.027273389
+tench_50.jpg,tench,0,0.49352568,rock beauty,392,0.048303336,barracouta,389,0.017519027,goldfish,1,0.01426674,gar,395,0.009002962
+tench_44.jpg,tench,0,0.41407868,coho,391,0.03463119,barracouta,389,0.029689854,reel,758,0.014392617,gar,395,0.013754175
+garbagetruck_49.jpg,garbage truck,569,0.30168322,fire engine,555,0.012316063,ambulance,407,0.010892024,trailer truck,867,0.010532591,snowplow,803,0.008273528
+cassetteplayer_94.jpg,CD player,485,0.16985543,radio,754,0.09132828,tape player,848,0.0835532,Polaroid camera,732,0.062325124,cassette player,482,0.02942794
+garbagetruck_61.jpg,garbage truck,569,0.14966765,tow truck,864,0.09983692,trailer truck,867,0.048982095,crane,517,0.03229769,snowplow,803,0.024766838
+tench_78.jpg,tench,0,0.35035244,gar,395,0.043945193,reel,758,0.042529415,barracouta,389,0.030057678,rock beauty,392,0.023331527
+garbagetruck_75.jpg,garbage truck,569,0.16806255,trailer truck,867,0.029079882,tow truck,864,0.010668527,moving van,675,0.009371313,snowplow,803,0.008387787
+englishspringer_19.jpg,vault,884,0.14129488,wardrobe,894,0.08193629,altar,406,0.032034013,prayer rug,741,0.022934664,fire screen,556,0.016009869
+gaspump_13.jpg,gas pump,571,0.17757037,cash machine,480,0.010804927,pay-phone,707,0.003750481,vending machine,886,0.0035308073,vacuum,882,0.0021422252
+englishspringer_25.jpg,face powder,551,0.05040433,Petri dish,712,0.04730801,corn,987,0.04482094,pizza,963,0.043414757,ice cream,928,0.033031292
+englishspringer_31.jpg,doormat,539,0.18712911,fire screen,556,0.14974397,tray,868,0.06549736,window screen,904,0.022474544,prayer rug,741,0.02105095
+garbagetruck_3.jpg,garbage truck,569,0.19854861,trailer truck,867,0.13791865,snowplow,803,0.06401931,moving van,675,0.06331568,tow truck,864,0.016680935
+frenchhorn_60.jpg,French horn,566,0.57439137,cornet,513,0.004291506,trombone,875,0.0018209484,bassoon,432,0.001244393,electric guitar,546,0.0011676286
+parachute_88.jpg,parachute,701,0.6193407,sandbar,977,0.004101814,seashore,978,0.0037050038,lakeside,975,0.0025503754,panpipe,699,0.002531833
+frenchhorn_74.jpg,French horn,566,0.4559301,vault,884,0.0017441055,nematode,111,0.0013877666,spiny lobster,123,0.001339607,electric guitar,546,0.0012769479
+chainsaw_32.jpg,chain saw,491,0.1687269,scabbard,777,0.03322235,rifle,764,0.02053621,cleaver,499,0.012846414,hammer,587,0.012615515
+golfball_88.jpg,golf ball,574,0.43625155,ping-pong ball,722,0.0023785837,thimble,855,0.0018189476,knee pad,615,0.0017603661,tennis ball,852,0.001381575
+chainsaw_26.jpg,lumbermill,634,0.09361927,hatchet,596,0.07503622,chain saw,491,0.042752046,flute,558,0.031535957,ocarina,684,0.025213124
+frenchhorn_48.jpg,French horn,566,0.6051484,cornet,513,0.0021932013,mixing bowl,659,0.0014963239,nematode,111,0.0014524447,trilobite,69,0.0011041105
+church_28.jpg,church,497,0.22011733,bell cote,442,0.027195582,monastery,663,0.016948013,altar,406,0.010375913,vault,884,0.010309008
+golfball_63.jpg,golf ball,574,0.4483582,thimble,855,0.002844274,gibbon,368,0.0015714758,Shih-Tzu,155,0.0014201732,tiger shark,3,0.0011700345
+golfball_77.jpg,golf ball,574,0.4418529,tennis ball,852,0.0020611293,ping-pong ball,722,0.0020569104,thimble,855,0.0015494276,croquet ball,522,0.0014428659
+church_14.jpg,vault,884,0.1938815,church,497,0.19134377,altar,406,0.11328,monastery,663,0.02756166,organ,687,0.00903191
+parachute_77.jpg,parachute,701,0.2949066,vault,884,0.019262072,theater curtain,854,0.016796153,balloon,417,0.011693426,cinema,498,0.0046691336
+parachute_63.jpg,parachute,701,0.46617064,balloon,417,0.078974605,valley,979,0.007054527,panpipe,699,0.002284626,cliff,972,0.0021326244
+parachute_75.jpg,parachute,701,0.41725484,seashore,978,0.0014603755,nematode,111,0.0011863351,balloon,417,0.0010140414,quill,749,0.0010104281
+church_16.jpg,church,497,0.48395032,bell cote,442,0.037469357,monastery,663,0.013340618,dome,538,0.0057855956,vault,884,0.0040870123
+frenchhorn_89.jpg,French horn,566,0.5261693,cornet,513,0.006012908,trombone,875,0.0014648109,bassoon,432,0.0013688232,mixing bowl,659,0.0012990569
+golfball_49.jpg,golf ball,574,0.70494777,thimble,855,0.0027029992,slot,800,0.0020169015,rugby ball,768,0.0012197805,tennis ball,852,0.0010348127
+parachute_61.jpg,parachute,701,0.42423826,balloon,417,0.053450387,carousel,476,0.003456952,seashore,978,0.0028532806,cliff,972,0.0019611518
+golfball_61.jpg,golf ball,574,0.52903605,thimble,855,0.0020672714,honeycomb,599,0.0018122802,goblet,572,0.0017669473,vase,883,0.0011898964
+parachute_49.jpg,parachute,701,0.34866273,balloon,417,0.012292825,water snake,58,0.0020503784,mosquito net,669,0.0015907063,airship,405,0.0015309597
+golfball_75.jpg,golf ball,574,0.47136417,chest,492,0.0024185039,crate,519,0.0017279017,pier,718,0.0016359157,dock,536,0.001492483
+chainsaw_30.jpg,chain saw,491,0.38718954,hammer,587,0.02773257,hatchet,596,0.013557092,lumbermill,634,0.010702004,shovel,792,0.010260164
+chainsaw_24.jpg,chain saw,491,0.1806879,frilled lizard,43,0.008921816,park bench,703,0.0054916414,bolete,997,0.005211907,hatchet,596,0.0051262835
+frenchhorn_62.jpg,French horn,566,0.36242533,bassoon,432,0.002261809,carton,478,0.0018381637,binder,446,0.0018015894,table lamp,846,0.0015975521
+frenchhorn_76.jpg,French horn,566,0.5225119,cornet,513,0.01454067,trombone,875,0.005213387,oboe,683,0.0013314626,sax,776,0.0011826237
+chainsaw_18.jpg,chain saw,491,0.23609318,suspension bridge,839,0.0061848746,pole,733,0.0054990076,flute,558,0.0032895035,totem pole,863,0.0032194108
+garbagetruck_1.jpg,garbage truck,569,0.2322143,trailer truck,867,0.025142366,moving van,675,0.020766165,tow truck,864,0.018273514,minibus,654,0.0071081123
+englishspringer_27.jpg,prayer rug,741,0.16536482,quilt,750,0.10645724,pillow,721,0.0397055,tray,868,0.037389506,comic book,917,0.027168492
+gaspump_11.jpg,gas pump,571,0.24956882,cash machine,480,0.08566159,vending machine,886,0.03129251,turnstile,877,0.018993193,scale,778,0.0121705625
+englishspringer_33.jpg,palace,698,0.10480805,flagpole,557,0.09857991,prison,743,0.031706404,tile roof,858,0.025162496,traffic light,920,0.02486963
+gaspump_39.jpg,cash machine,480,0.20459475,vending machine,886,0.06504284,gas pump,571,0.048660994,mailbox,637,0.016603544,pay-phone,707,0.010087014
+garbagetruck_63.jpg,garbage truck,569,0.24294902,snowplow,803,0.06727119,crane,517,0.03196669,trailer truck,867,0.017114306,moving van,675,0.0110134
+garbagetruck_77.jpg,garbage truck,569,0.24881881,crane,517,0.06804475,tow truck,864,0.040299002,ambulance,407,0.031233523,moving van,675,0.020019377
+tench_52.jpg,barracouta,389,0.19541271,gar,395,0.1877836,tench,0,0.071585074,coho,391,0.045402955,sturgeon,394,0.020312868
+cassetteplayer_82.jpg,radio,754,0.21247636,tape player,848,0.19500028,cassette player,482,0.13944437,CD player,485,0.04679926,cassette,481,0.011919851
+cassetteplayer_96.jpg,cassette,481,0.24557818,tape player,848,0.15382905,cassette player,482,0.15311363,Polaroid camera,732,0.007175556,wallet,893,0.0019869271
+tench_46.jpg,tench,0,0.12371823,barracouta,389,0.1008013,coho,391,0.048740324,gar,395,0.041015804,reel,758,0.034081083
+cassetteplayer_69.jpg,CD player,485,0.33762807,radio,754,0.18447699,tape player,848,0.050838813,cassette player,482,0.029738186,cassette,481,0.02314322
+tench_91.jpg,tench,0,0.123305105,barracouta,389,0.0913717,rock beauty,392,0.07426614,electric ray,5,0.048391942,gar,395,0.03513548
+cassetteplayer_41.jpg,tape player,848,0.21491274,cassette player,482,0.18506365,CD player,485,0.090719074,radio,754,0.0740034,cassette,481,0.013922249
+cassetteplayer_55.jpg,cassette,481,0.25139248,cassette player,482,0.15093556,tape player,848,0.15083039,CD player,485,0.010277573,radio,754,0.006829443
+tench_85.jpg,gar,395,0.41148052,barracouta,389,0.025341798,coho,391,0.010265352,tench,0,0.0070340415,sturgeon,394,0.0054295594
+garbagetruck_88.jpg,garbage truck,569,0.25309977,school bus,779,0.07334263,snowplow,803,0.0634122,crane,517,0.028575975,trailer truck,867,0.023033416
+cassetteplayer_54.jpg,radio,754,0.18541989,tape player,848,0.15491717,cassette player,482,0.09136631,CD player,485,0.0876556,Polaroid camera,732,0.024186507
+garbagetruck_89.jpg,moving van,675,0.15440917,garbage truck,569,0.09551699,trailer truck,867,0.08839507,minibus,654,0.013294033,tow truck,864,0.008109364
+tench_84.jpg,gar,395,0.40764427,tench,0,0.059777733,barracouta,389,0.02225417,eel,390,0.021792263,reel,758,0.014437554
+tench_90.jpg,tench,0,0.48102972,barracouta,389,0.027754769,reel,758,0.008306282,goldfish,1,0.007019013,rock beauty,392,0.0069644377
+cassetteplayer_40.jpg,tape player,848,0.18793754,cassette player,482,0.10582628,radio,754,0.096163645,CD player,485,0.029320084,cassette,481,0.024235062
+cassetteplayer_68.jpg,cassette player,482,0.14615014,tape player,848,0.14410195,Polaroid camera,732,0.07260673,cassette,481,0.046560682,hard disc,592,0.028668754
+cassetteplayer_97.jpg,tape player,848,0.23014823,cassette player,482,0.18982911,CD player,485,0.047360793,cassette,481,0.030019965,radio,754,0.019871162
+tench_47.jpg,tench,0,0.5672125,barracouta,389,0.028742012,rock beauty,392,0.008825323,gar,395,0.0045183864,reel,758,0.0043264073
+tench_53.jpg,tench,0,0.4772715,gar,395,0.046523683,barracouta,389,0.03098764,reel,758,0.0056432555,coho,391,0.0030710492
+cassetteplayer_83.jpg,tape player,848,0.101817094,radio,754,0.09456201,CD player,485,0.07552108,cassette player,482,0.06532318,cassette,481,0.03420065
+garbagetruck_76.jpg,garbage truck,569,0.6555956,trailer truck,867,0.009232419,thresher,856,0.004193645,snowplow,803,0.004187335,harvester,595,0.0023473962
+garbagetruck_62.jpg,garbage truck,569,0.521467,trailer truck,867,0.013074502,crane,517,0.005274745,moving van,675,0.0039623133,snowplow,803,0.003794641
+gaspump_38.jpg,vending machine,886,0.2136728,gas pump,571,0.13636309,cash machine,480,0.02162484,pay-phone,707,0.009447505,pop bottle,737,0.0055200537
+englishspringer_32.jpg,microwave,651,0.70924926,dishwasher,534,0.043236125,refrigerator,760,0.009296824,stove,827,0.0061089117,plate rack,729,0.0058220695
+gaspump_10.jpg,mailbox,637,0.12829976,cash machine,480,0.088596046,parking meter,704,0.01648092,ashcan,412,0.0111377295,vending machine,886,0.010709561
+englishspringer_26.jpg,picket fence,716,0.06675883,window screen,904,0.04040718,boathouse,449,0.03310778,patio,706,0.029888507,flagpole,557,0.027471378
+garbagetruck_0.jpg,ambulance,407,0.20780554,fire engine,555,0.08298396,trailer truck,867,0.07157343,garbage truck,569,0.03894086,tow truck,864,0.036620613
+frenchhorn_77.jpg,French horn,566,0.6612003,frying pan,567,0.0015673318,coil,506,0.0013950625,theater curtain,854,0.001320847,bassoon,432,0.0012232771
+chainsaw_19.jpg,scabbard,777,0.12006174,letter opener,623,0.1112483,hammer,587,0.07075881,hair slide,584,0.031629324,ladle,618,0.030580027
+frenchhorn_63.jpg,French horn,566,0.4834382,racket,752,0.001261886,vault,884,0.0012247076,bassoon,432,0.0012120212,coil,506,0.0012099054
+chainsaw_25.jpg,scabbard,777,0.4331108,letter opener,623,0.03442394,cleaver,499,0.022748083,holster,597,0.021627171,hatchet,596,0.02102859
+chainsaw_31.jpg,chain,488,0.07784413,rule,769,0.045120493,hook,600,0.01864876,chain saw,491,0.018511903,scorpion,71,0.012384234
+golfball_74.jpg,golf ball,574,0.45236263,thimble,855,0.0014473781,ping-pong ball,722,0.0013254555,tennis ball,852,0.0011665194,Lhasa,204,0.0011117087
+parachute_48.jpg,parachute,701,0.3353419,balloon,417,0.08482034,valley,979,0.0050204834,alp,970,0.004173019,seashore,978,0.0025824325
+golfball_60.jpg,golf ball,574,0.43169996,gibbon,368,0.0024984113,binder,446,0.0015153681,thimble,855,0.0012479904,Shih-Tzu,155,0.0011550294
+frenchhorn_88.jpg,French horn,566,0.41137752,racket,752,0.0024341394,bassoon,432,0.0020194626,electric guitar,546,0.0015505434,loupe,633,0.0013633367
+parachute_60.jpg,parachute,701,0.3367243,balloon,417,0.051667757,valley,979,0.0025049525,seashore,978,0.0024258082,broom,462,0.0021958584
+golfball_48.jpg,golf ball,574,0.4303109,thimble,855,0.0014841789,tennis ball,852,0.0011181684,white stork,127,0.0010976015,parachute,701,0.0010916318
+church_17.jpg,church,497,0.30435422,bell cote,442,0.119791694,vault,884,0.013431301,monastery,663,0.006812684,dome,538,0.00677834
+parachute_74.jpg,parachute,701,0.37713262,balloon,417,0.012052117,soccer ball,805,0.0020397145,volleyball,890,0.0019411197,Sussex spaniel,220,0.001788414
+cassetteplayer_2.jpg,tape player,848,0.2998516,cassette player,482,0.13995753,radio,754,0.04945615,CD player,485,0.046996757,cassette,481,0.0427562
+golfball_13.jpg,golf ball,574,0.4500571,ping-pong ball,722,0.002019964,baseball,429,0.0013971027,tennis ball,852,0.0012776088,thimble,855,0.0012572443
+church_58.jpg,vault,884,0.247342,church,497,0.2003345,altar,406,0.07723031,monastery,663,0.0258953,organ,687,0.009306878
+church_70.jpg,church,497,0.20860986,altar,406,0.1996676,vault,884,0.03914045,organ,687,0.012244106,monastery,663,0.004001387
+parachute_13.jpg,parachute,701,0.5722853,balloon,417,0.0020705361,valley,979,0.0017249278,panpipe,699,0.0016987822,stone wall,825,0.0014908181
+chainsaw_95.jpg,chain saw,491,0.17835489,ski,795,0.12126593,mountain bike,671,0.025650864,paddle,693,0.021632874,fountain,562,0.013397675
+chainsaw_81.jpg,chain,488,0.31427997,padlock,695,0.029169222,worm fence,912,0.015145755,hook,600,0.011830529,lumbermill,634,0.010965788
+church_64.jpg,church,497,0.3591393,altar,406,0.107364535,vault,884,0.10251001,organ,687,0.011787004,monastery,663,0.009592415
+frenchhorn_10.jpg,French horn,566,0.46172604,cornet,513,0.018016566,trombone,875,0.0019006317,bassoon,432,0.0012465253,magnetic compass,635,0.0011193635
+chainsaw_56.jpg,chain saw,491,0.32382667,thatch,853,0.047315255,doormat,539,0.02641575,rule,769,0.015045988,tank,847,0.006221189
+frenchhorn_38.jpg,French horn,566,0.55273974,electric guitar,546,0.0015474096,mixing bowl,659,0.0013613537,bassoon,432,0.001116403,vault,884,0.0010961518
+chainsaw_42.jpg,chain saw,491,0.54701257,centipede,79,0.006954799,quill,749,0.0036522371,hatchet,596,0.003338197,lumbermill,634,0.002449016
+gaspump_88.jpg,gas pump,571,0.2130333,cash machine,480,0.02887724,pay-phone,707,0.015774015,traffic light,920,0.0050230953,parking meter,704,0.0046703657
+englishspringer_82.jpg,manhole cover,640,0.10734889,dome,538,0.06764207,prayer rug,741,0.048866384,vault,884,0.03213061,tray,868,0.025329893
+frenchhorn_1.jpg,French horn,566,0.43755963,bassoon,432,0.0016046194,electric guitar,546,0.0014363934,ladle,618,0.0013729363,vault,884,0.0013559173
+englishspringer_96.jpg,beach wagon,436,0.2414173,pickup,717,0.19568084,grille,581,0.037399754,convertible,511,0.018328514,car wheel,479,0.018133268
+englishspringer_69.jpg,mobile home,660,0.32227132,streetcar,829,0.04604858,oxcart,690,0.02272954,boathouse,449,0.022435106,yurt,915,0.01745549
+gaspump_77.jpg,cash machine,480,0.17550077,vending machine,886,0.12793104,gas pump,571,0.060431987,pay-phone,707,0.0044721803,slot,800,0.0038239472
+englishspringer_41.jpg,jigsaw puzzle,611,0.1629926,library,624,0.0759916,greenhouse,580,0.027888255,seashore,978,0.024081703,lakeside,975,0.01644447
+englishspringer_55.jpg,prayer rug,741,0.54982316,tray,868,0.014903747,jigsaw puzzle,611,0.00796479,doormat,539,0.006315764,chest,492,0.0032056007
+gaspump_63.jpg,gas pump,571,0.19060495,cash machine,480,0.074825175,mailbox,637,0.016521126,vending machine,886,0.008492454,pay-phone,707,0.005856808
+garbagetruck_39.jpg,garbage truck,569,0.43591532,trailer truck,867,0.009716843,tow truck,864,0.008038542,snowplow,803,0.007350296,crane,517,0.005773722
+tench_34.jpg,tench,0,0.21371095,barracouta,389,0.18852381,gar,395,0.037846018,reel,758,0.029027428,goldfish,1,0.020677477
+chainsaw_2.jpg,power drill,740,0.1779457,chain saw,491,0.049994376,hook,600,0.024540154,rule,769,0.022473902,vacuum,882,0.007095648
+tench_20.jpg,tench,0,0.4409375,goldfish,1,0.020008255,barracouta,389,0.019227993,reel,758,0.012679697,rock beauty,392,0.008670968
+garbagetruck_11.jpg,garbage truck,569,0.47920543,trailer truck,867,0.0223585,amphibian,408,0.0047381315,moving van,675,0.0045192684,mobile home,660,0.004021882
+gaspump_7.jpg,gas pump,571,0.36492962,cash machine,480,0.056891985,parking meter,704,0.016835308,pay-phone,707,0.01286109,vending machine,886,0.009413615
+cassetteplayer_27.jpg,tape player,848,0.24974,cassette player,482,0.12747172,cassette,481,0.09741055,CD player,485,0.021171613,vending machine,886,0.021107776
+cassetteplayer_33.jpg,tape player,848,0.10721077,cassette player,482,0.060372982,CD player,485,0.03462698,cassette,481,0.029507877,radio,754,0.02353444
+englishspringer_2.jpg,lumbermill,634,0.46461526,barn,425,0.10189797,crate,519,0.015088121,freight car,565,0.007913055,tile roof,858,0.0036241703
+parachute_0.jpg,parachute,701,0.73075014,balloon,417,0.006857394,seashore,978,0.0038907456,sandbar,977,0.002369018,lakeside,975,0.0013843356
+parachute_1.jpg,parachute,701,0.5768421,balloon,417,0.006389376,dam,525,0.0021142315,volcano,980,0.0018584472,alp,970,0.0017310503
+cassetteplayer_32.jpg,tape player,848,0.18657982,CD player,485,0.1519832,cassette player,482,0.08889989,radio,754,0.07901108,cassette,481,0.023648694
+englishspringer_3.jpg,tile roof,858,0.12381354,picket fence,716,0.032931376,solar dish,807,0.030340727,lakeside,975,0.026982276,library,624,0.026618827
+gaspump_6.jpg,cash machine,480,0.16163515,gas pump,571,0.025414018,mailbox,637,0.022965364,file,553,0.009417133,vending machine,886,0.0067129857
+cassetteplayer_26.jpg,iPod,605,0.15132043,tape player,848,0.14096014,cassette,481,0.06961081,cassette player,482,0.06800279,modem,662,0.049779426
+garbagetruck_10.jpg,trailer truck,867,0.16873452,fire engine,555,0.091293946,tow truck,864,0.03917172,garbage truck,569,0.038259327,snowplow,803,0.032127455
+tench_21.jpg,tench,0,0.2769749,barracouta,389,0.023536421,gar,395,0.021456985,goldfish,1,0.010050113,rock beauty,392,0.0071291863
+tench_35.jpg,tench,0,0.51488614,reel,758,0.037975334,anemone fish,393,0.01669154,rock beauty,392,0.014001469,coral reef,973,0.012379501
+garbagetruck_38.jpg,garbage truck,569,0.4280172,trailer truck,867,0.055089317,moving van,675,0.010714223,snowplow,803,0.006782207,crane,517,0.0029399886
+chainsaw_3.jpg,chain saw,491,0.5602971,power drill,740,0.003995378,switch,844,0.0033933958,joystick,613,0.0027231902,castle,483,0.0023574699
+gaspump_62.jpg,gas pump,571,0.3334472,mailbox,637,0.007220665,cash machine,480,0.005848208,pay-phone,707,0.004542096,ashcan,412,0.004158275
+englishspringer_54.jpg,palace,698,0.21596603,library,624,0.06401459,monastery,663,0.030080877,boathouse,449,0.017126648,lakeside,975,0.015260007
+englishspringer_40.jpg,window screen,904,0.06670812,palace,698,0.043015175,library,624,0.041302152,tile roof,858,0.022817243,picket fence,716,0.01819997
+gaspump_76.jpg,gas pump,571,0.10102727,vending machine,886,0.09719711,cash machine,480,0.045435205,pay-phone,707,0.019522537,mailbox,637,0.014646193
+englishspringer_68.jpg,racer,751,0.26477742,sports car,817,0.09848615,convertible,511,0.043081027,car wheel,479,0.035765704,passenger car,705,0.02554071
+englishspringer_97.jpg,lakeside,975,0.0627903,boathouse,449,0.043568708,castle,483,0.042380624,patio,706,0.035095923,library,624,0.018932374
+frenchhorn_0.jpg,French horn,566,0.5739046,cornet,513,0.0073362566,bassoon,432,0.0031109499,trombone,875,0.0030531827,acoustic guitar,402,0.0014485361
+englishspringer_83.jpg,patio,706,0.112171665,window screen,904,0.07435638,mobile home,660,0.051074013,pot,738,0.029666502,library,624,0.027834425
+gaspump_89.jpg,gas pump,571,0.27543545,mailbox,637,0.031947292,vending machine,886,0.026891897,cash machine,480,0.017135639,parking meter,704,0.007898318
+chainsaw_43.jpg,chain saw,491,0.42650077,mountain bike,671,0.0047531337,lorikeet,90,0.004321645,Bouvier des Flandres,233,0.0036089863,curly-coated retriever,206,0.003589161
+chainsaw_57.jpg,chain saw,491,0.37894005,pole,733,0.009170501,lawn mower,621,0.0044224123,power drill,740,0.002648107,cleaver,499,0.0020724148
+frenchhorn_39.jpg,French horn,566,0.48689,vault,884,0.0015506309,mixing bowl,659,0.0014859667,spiny lobster,123,0.0014760165,Bedlington terrier,181,0.0013873762
+frenchhorn_11.jpg,French horn,566,0.5741359,cornet,513,0.009283061,trombone,875,0.00251708,lotion,631,0.0012798882,sax,776,0.0012320015
+church_65.jpg,church,497,0.5154223,altar,406,0.15237619,vault,884,0.059831068,organ,687,0.007472317,monastery,663,0.003384678
+chainsaw_80.jpg,chain saw,491,0.39843807,power drill,740,0.0091400305,screwdriver,784,0.008495611,hammer,587,0.0053348434,neck brace,678,0.004624202
+chainsaw_94.jpg,sandal,774,0.12473635,hatchet,596,0.053194884,reel,758,0.05173902,rule,769,0.020622993,clog,502,0.020510288
+parachute_12.jpg,balloon,417,0.3323913,parachute,701,0.13293794,flagpole,557,0.0313359,umbrella,879,0.025846858,pinwheel,723,0.0066160597
+church_71.jpg,church,497,0.5256598,monastery,663,0.012790441,bell cote,442,0.009871666,vault,884,0.0019697188,analog clock,409,0.0019602124
+church_59.jpg,church,497,0.528579,bell cote,442,0.049250964,vault,884,0.010662615,monastery,663,0.005741146,tile roof,858,0.0020858108
+golfball_12.jpg,golf ball,574,0.714716,thimble,855,0.0013159574,oil filter,686,0.0006834673,remote control,761,0.00055552146,Sussex spaniel,220,0.000485179
+cassetteplayer_3.jpg,tape player,848,0.1166682,cassette player,482,0.1101706,radio,754,0.079835184,CD player,485,0.054572586,cassette,481,0.020616334
+golfball_10.jpg,golf ball,574,0.4284179,thimble,855,0.002061162,ping-pong ball,722,0.0020369021,Shih-Tzu,155,0.0018747095,gibbon,368,0.001754213
+parachute_38.jpg,parachute,701,0.5466236,balloon,417,0.006032005,lampshade,619,0.00192161,nematode,111,0.0018853431,seashore,978,0.001767366
+cassetteplayer_1.jpg,radio,754,0.21325254,CD player,485,0.1239969,tape player,848,0.1192773,cassette player,482,0.06784058,cassette,481,0.018683696
+chainsaw_82.jpg,chain saw,491,0.34920335,shovel,792,0.054042723,hammer,587,0.04253425,gar,395,0.019294877,screw,783,0.01525149
+church_67.jpg,church,497,0.29810396,bell cote,442,0.07267841,monastery,663,0.0124716945,dome,538,0.010852173,boathouse,449,0.0027193662
+golfball_38.jpg,golf ball,574,0.4382927,pick,714,0.0013588497,black grouse,80,0.0012196923,golden retriever,207,0.001185047,Sussex spaniel,220,0.0011849448
+church_73.jpg,church,497,0.4577273,bell cote,442,0.050005987,monastery,663,0.013655725,dome,538,0.009986713,vault,884,0.009488474
+parachute_10.jpg,parachute,701,0.42171738,velvet,885,0.008088668,bonnet,452,0.005709896,sock,806,0.0053297463,panpipe,699,0.0053260317
+chainsaw_96.jpg,rule,769,0.64906234,chain saw,491,0.053711157,hook,600,0.007407347,slide rule,798,0.0061868518,hammer,587,0.003889558
+church_98.jpg,bell cote,442,0.312493,church,497,0.22468436,monastery,663,0.019879328,vault,884,0.0142840985,tile roof,858,0.0033137705
+frenchhorn_13.jpg,French horn,566,0.5404959,cornet,513,0.0042803655,electric guitar,546,0.0011849104,bassoon,432,0.0011122108,trombone,875,0.0011002002
+chainsaw_69.jpg,chain saw,491,0.7204692,ski mask,796,0.0011264639,lumbermill,634,0.0010791778,lorikeet,90,0.0010619068,baseball,429,0.00094357284
+chainsaw_41.jpg,rule,769,0.05558086,chain saw,491,0.050285988,motor scooter,670,0.038135175,neck brace,678,0.034196123,moped,665,0.024613876
+chainsaw_55.jpg,chain saw,491,0.301301,lumbermill,634,0.23465748,jigsaw puzzle,611,0.02764602,shopping basket,790,0.01826775,rule,769,0.01384524
+frenchhorn_2.jpg,French horn,566,0.571697,coil,506,0.002081314,shield,787,0.0014988548,nematode,111,0.0014520924,strainer,828,0.0012952755
+englishspringer_95.jpg,military uniform,652,0.02406178,prayer rug,741,0.020893786,chain mail,490,0.01886078,doormat,539,0.018421592,fountain,562,0.017867139
+englishspringer_81.jpg,tray,868,0.23141529,jigsaw puzzle,611,0.07070022,ice cream,928,0.016406033,bottlecap,455,0.012801703,ice lolly,929,0.0124491425
+golfball_8.jpg,maze,646,0.28156093,coil,506,0.071516275,puck,746,0.056603823,shield,787,0.04400686,hair slide,584,0.024902903
+gaspump_48.jpg,cash machine,480,0.23113157,gas pump,571,0.1324132,pay-phone,707,0.02366577,vending machine,886,0.01055146,mailbox,637,0.007244556
+englishspringer_56.jpg,palace,698,0.092539765,lakeside,975,0.0736271,bell cote,442,0.06846575,picket fence,716,0.0415889,monastery,663,0.033281133
+gaspump_60.jpg,gas pump,571,0.24661459,pay-phone,707,0.05215158,stopwatch,826,0.006228383,slot,800,0.005582931,turnstile,877,0.004979632
+gaspump_74.jpg,gas pump,571,0.30092677,cash machine,480,0.015202006,vending machine,886,0.0040743197,mailbox,637,0.0031017882,ambulance,407,0.0019705018
+englishspringer_42.jpg,seashore,978,0.13690248,lakeside,975,0.11053061,alp,970,0.091103666,mobile home,660,0.07402918,maze,646,0.02801082
+tench_23.jpg,tench,0,0.3606613,rock beauty,392,0.016324904,anemone fish,393,0.01592106,coho,391,0.011246517,coral reef,973,0.009639681
+chainsaw_1.jpg,chain saw,491,0.35637683,thatch,853,0.14162618,doormat,539,0.031677894,shovel,792,0.019097464,scabbard,777,0.013685293
+tench_37.jpg,tench,0,0.43034703,barracouta,389,0.14289439,gar,395,0.03908973,goldfish,1,0.008608032,sturgeon,394,0.0062329797
+garbagetruck_12.jpg,garbage truck,569,0.36435208,trailer truck,867,0.054516193,moving van,675,0.018276969,snowplow,803,0.014758025,crane,517,0.012261752
+englishspringer_1.jpg,mobile home,660,0.2521823,patio,706,0.0367878,boathouse,449,0.023963155,worm fence,912,0.020318132,barn,425,0.017234728
+cassetteplayer_30.jpg,tape player,848,0.1507654,cassette player,482,0.089228444,CD player,485,0.06270561,radio,754,0.05582035,cassette,481,0.024500258
+cassetteplayer_24.jpg,radio,754,0.24112035,Granny Smith,948,0.21925446,loudspeaker,632,0.08180078,CD player,485,0.069714785,tape player,848,0.02989577
+gaspump_4.jpg,gas pump,571,0.40349075,pay-phone,707,0.0222185,cash machine,480,0.012815684,traffic light,920,0.008721347,parking meter,704,0.0041725044
+parachute_3.jpg,parachute,701,0.5329212,valley,979,0.006160336,lakeside,975,0.0044313767,balloon,417,0.0026702725,dam,525,0.0022829443
+cassetteplayer_18.jpg,tape player,848,0.16352046,cassette,481,0.13777632,cassette player,482,0.073528826,CD player,485,0.050509457,radio,754,0.043563284
+cassetteplayer_19.jpg,cassette,481,0.34619367,tape player,848,0.03372517,cassette player,482,0.029902875,Polaroid camera,732,0.018859811,projector,745,0.011901576
+parachute_2.jpg,parachute,701,0.53921634,balloon,417,0.014833951,seashore,978,0.0014878679,sandbar,977,0.0014392807,flagpole,557,0.0012963716
+cassetteplayer_25.jpg,radio,754,0.15948057,tape player,848,0.10619706,cassette player,482,0.08881168,CD player,485,0.05810631,oscilloscope,688,0.028150544
+gaspump_5.jpg,gas pump,571,0.51619995,cash machine,480,0.042691957,pay-phone,707,0.024235278,vending machine,886,0.017844811,switch,844,0.010819019
+englishspringer_0.jpg,handkerchief,591,0.2645692,packet,692,0.07232388,tray,868,0.037144244,hand-held computer,590,0.025441386,strainer,828,0.010547054
+cassetteplayer_31.jpg,cassette,481,0.2672431,tape player,848,0.20031182,cassette player,482,0.16792399,CD player,485,0.0061236667,Polaroid camera,732,0.0060217525
+garbagetruck_13.jpg,garbage truck,569,0.5527218,trailer truck,867,0.017516047,fire engine,555,0.009393653,tow truck,864,0.0079515455,moving van,675,0.0059007807
+chainsaw_0.jpg,chain saw,491,0.5153891,power drill,740,0.01146802,vacuum,882,0.005969394,assault rifle,413,0.0030143163,lighter,626,0.0023889462
+tench_36.jpg,tench,0,0.56623495,barracouta,389,0.03914693,gar,395,0.010822472,goldfish,1,0.007079756,coho,391,0.004363727
+tench_22.jpg,tench,0,0.4621297,coho,391,0.027649185,reel,758,0.018392451,barracouta,389,0.006939089,eel,390,0.00597113
+englishspringer_43.jpg,wallet,893,0.11644674,prayer rug,741,0.102783054,packet,692,0.07176748,comic book,917,0.040448476,fire screen,556,0.032945715
+gaspump_75.jpg,gas pump,571,0.33308256,pay-phone,707,0.06395257,mailbox,637,0.008148419,ashcan,412,0.006521723,dial telephone,528,0.0040030824
+gaspump_61.jpg,gas pump,571,0.380468,mailbox,637,0.091331996,ashcan,412,0.028747592,cash machine,480,0.011780118,pay-phone,707,0.010625306
+englishspringer_57.jpg,passenger car,705,0.32475382,freight car,565,0.05773789,electric locomotive,547,0.043723352,streetcar,829,0.023223178,steam locomotive,820,0.011679934
+gaspump_49.jpg,gas pump,571,0.31544858,pay-phone,707,0.011067793,slot,800,0.010605872,vending machine,886,0.008787532,cash machine,480,0.004736408
+golfball_9.jpg,golf ball,574,0.426994,gibbon,368,0.002517773,binder,446,0.0017500399,Shih-Tzu,155,0.0017291491,thimble,855,0.0016537764
+englishspringer_80.jpg,sports car,817,0.36219934,convertible,511,0.03452526,car wheel,479,0.027487587,beach wagon,436,0.01570106,grille,581,0.014938621
+englishspringer_94.jpg,book jacket,921,0.38429856,packet,692,0.17318794,binder,446,0.02077115,library,624,0.020194989,cassette,481,0.017273096
+frenchhorn_3.jpg,cornet,513,0.3019068,French horn,566,0.18627498,trombone,875,0.015087783,bassoon,432,0.0035542503,sax,776,0.0031523288
+chainsaw_54.jpg,chain saw,491,0.34520444,scorpion,71,0.029513232,rule,769,0.025384277,chain,488,0.018873611,tick,78,0.011922712
+chainsaw_40.jpg,chain saw,491,0.5657826,rule,769,0.023399498,hammer,587,0.007822971,hook,600,0.004738114,shovel,792,0.004199752
+chainsaw_68.jpg,worm fence,912,0.07189789,lumbermill,634,0.06531242,pole,733,0.04380382,African crocodile,49,0.028389085,stretcher,830,0.016350355
+church_99.jpg,church,497,0.44629446,bell cote,442,0.15548325,monastery,663,0.006273362,tile roof,858,0.004831803,analog clock,409,0.0019005056
+frenchhorn_12.jpg,French horn,566,0.47307897,cornet,513,0.0029611243,bassoon,432,0.0026088976,trombone,875,0.0023684725,electric guitar,546,0.0018802945
+chainsaw_97.jpg,hatchet,596,0.20441832,chain saw,491,0.10313352,worm fence,912,0.03159127,lumbermill,634,0.012893048,gibbon,368,0.011801897
+parachute_11.jpg,parachute,701,0.39555725,water snake,58,0.0037453321,steel arch bridge,821,0.002000261,seashore,978,0.0018611592,crayfish,124,0.0015635613
+church_72.jpg,vault,884,0.36923432,church,497,0.16142794,altar,406,0.11183845,monastery,663,0.016801775,organ,687,0.0075981487
+golfball_39.jpg,golf ball,574,0.43924987,ping-pong ball,722,0.0020677662,tennis ball,852,0.001348435,thimble,855,0.0012623941,pill bottle,720,0.0011121115
+church_66.jpg,church,497,0.24376583,vault,884,0.1245651,altar,406,0.08989183,monastery,663,0.07405351,palace,698,0.051530473
+chainsaw_83.jpg,chain saw,491,0.51841927,gar,395,0.0048824237,rule,769,0.0041752765,balance beam,416,0.0020353193,swing,843,0.0019702232
+cassetteplayer_0.jpg,desktop computer,527,0.335545,tape player,848,0.105172895,cassette player,482,0.04103731,CD player,485,0.032050006,cassette,481,0.031791463
+parachute_39.jpg,parachute,701,0.43582046,flagpole,557,0.0022728518,balloon,417,0.0021381236,panpipe,699,0.0017590651,steel arch bridge,821,0.0014713611
+golfball_11.jpg,golf ball,574,0.50738615,vase,883,0.0011980949,thimble,855,0.001109043,tennis ball,852,0.001044065,water jug,899,0.0009756638
+chainsaw_87.jpg,chain saw,491,0.22062168,rule,769,0.08793355,scabbard,777,0.02825091,hatchet,596,0.013111118,buckle,464,0.01273257
+golfball_29.jpg,golf ball,574,0.47112876,thimble,855,0.0054194685,thunder snake,52,0.001068231,medicine chest,648,0.00097130093,baseball,429,0.0009443445
+church_62.jpg,church,497,0.64527583,altar,406,0.19104156,vault,884,0.0131257605,organ,687,0.005741996,Great Pyrenees,257,0.003139507
+church_76.jpg,vault,884,0.3200248,church,497,0.13725393,altar,406,0.124930255,monastery,663,0.027679674,organ,687,0.011722373
+chainsaw_93.jpg,chain saw,491,0.16276313,syringe,845,0.045249745,screwdriver,784,0.0139665045,power drill,740,0.009390484,swab,840,0.007902925
+parachute_15.jpg,parachute,701,0.51227736,balloon,417,0.024415383,valley,979,0.0025987532,airship,405,0.0021018768,broom,462,0.0017777903
+golfball_15.jpg,golf ball,574,0.33590657,ping-pong ball,722,0.0019012106,thimble,855,0.0017552999,tennis ball,852,0.0015789559,water snake,58,0.0011592667
+parachute_29.jpg,parachute,701,0.5312447,balloon,417,0.048845597,flagpole,557,0.001967159,valley,979,0.0017981118,airship,405,0.0016680007
+cassetteplayer_4.jpg,radio,754,0.15445758,tape player,848,0.108605325,cassette player,482,0.07428295,CD player,485,0.061087348,cassette,481,0.032867026
+chainsaw_44.jpg,poncho,735,0.24736656,plow,730,0.13851078,picket fence,716,0.11914259,worm fence,912,0.07610566,stole,824,0.034232512
+chainsaw_50.jpg,power drill,740,0.05859715,hatchet,596,0.03859222,hand blower,589,0.03270784,chain saw,491,0.030293481,mountain bike,671,0.029542506
+frenchhorn_16.jpg,French horn,566,0.1268004,cornet,513,0.045618005,sax,776,0.017365111,trombone,875,0.014529909,bassoon,432,0.0067453333
+chainsaw_78.jpg,chain saw,491,0.50030476,lawn mower,621,0.015726482,mountain bike,671,0.010338826,goose,99,0.008359421,black swan,100,0.008146356
+church_89.jpg,church,497,0.40036938,bell cote,442,0.09211592,monastery,663,0.012089202,vault,884,0.0032474918,tile roof,858,0.0031431136
+englishspringer_90.jpg,restaurant,762,0.05702254,minivan,656,0.05228445,tobacco shop,860,0.046786625,limousine,627,0.045415815,barbershop,424,0.042983353
+frenchhorn_7.jpg,French horn,566,0.46656582,cornet,513,0.017083654,trombone,875,0.002494991,bassoon,432,0.0020195479,sax,776,0.0014556964
+englishspringer_84.jpg,wardrobe,894,0.09120457,fire screen,556,0.086042404,slot,800,0.043809433,prayer rug,741,0.035812814,jigsaw puzzle,611,0.031192034
+englishspringer_53.jpg,toilet seat,861,0.35217538,face powder,551,0.12047051,bolo tie,451,0.039792307,Petri dish,712,0.031812087,safety pin,772,0.015404129
+gaspump_65.jpg,gas pump,571,0.11233941,parking meter,704,0.06546734,cash machine,480,0.06532191,ashcan,412,0.03665034,pay-phone,707,0.014414627
+gaspump_71.jpg,cash machine,480,0.22511145,switch,844,0.009251768,modem,662,0.007969966,remote control,761,0.007853464,printer,742,0.0073165866
+englishspringer_47.jpg,prayer rug,741,0.26327163,poncho,735,0.032213397,vestment,887,0.025452074,sarong,775,0.025205186,apron,411,0.022649514
+gaspump_59.jpg,gas pump,571,0.24781588,vending machine,886,0.048103534,cash machine,480,0.01718503,slot,800,0.016027141,oscilloscope,688,0.0058388384
+garbagetruck_17.jpg,garbage truck,569,0.42119864,fire engine,555,0.02086831,trailer truck,867,0.010059441,tow truck,864,0.008872265,moving van,675,0.0040367483
+tench_26.jpg,gar,395,0.3341481,barracouta,389,0.11512481,tench,0,0.10950575,sturgeon,394,0.0093596075,tiger shark,3,0.0061852043
+tench_32.jpg,gar,395,0.073636286,reel,758,0.042381,tench,0,0.041570652,barracouta,389,0.032767806,rifle,764,0.030543637
+chainsaw_4.jpg,chain saw,491,0.48447466,power drill,740,0.011928107,knee pad,615,0.004846812,screwdriver,784,0.0035586923,hammer,587,0.0028028386
+parachute_6.jpg,balloon,417,0.54233485,parachute,701,0.04440833,shower curtain,794,0.0061006937,tray,868,0.0019175487,carousel,476,0.0018923027
+cassetteplayer_35.jpg,tape player,848,0.16446793,cassette player,482,0.09964126,cassette,481,0.08703955,CD player,485,0.07378572,radio,754,0.030612394
+englishspringer_4.jpg,fire screen,556,0.4539804,jigsaw puzzle,611,0.024557857,tray,868,0.022857739,throne,857,0.018701455,vestment,887,0.01801666
+gaspump_1.jpg,gas pump,571,0.46601442,iPod,605,0.017256433,mailbox,637,0.009990635,cash machine,480,0.009315019,vending machine,886,0.004591436
+cassetteplayer_21.jpg,tape player,848,0.19954522,radio,754,0.11806506,cassette player,482,0.11096856,CD player,485,0.058610097,cassette,481,0.019963525
+gaspump_0.jpg,gas pump,571,0.26882452,cash machine,480,0.05654131,vending machine,886,0.007910865,mailbox,637,0.0032158801,packet,692,0.0029481042
+cassetteplayer_20.jpg,tape player,848,0.15661162,radio,754,0.14655942,cassette player,482,0.093918994,CD player,485,0.06823636,cassette,481,0.033505052
+cassetteplayer_34.jpg,tape player,848,0.11575631,radio,754,0.11291495,cassette,481,0.09724618,cassette player,482,0.08115635,CD player,485,0.034128726
+englishspringer_5.jpg,patio,706,0.072862975,lumbermill,634,0.056783907,lakeside,975,0.048490383,boathouse,449,0.047920562,tile roof,858,0.016513968
+parachute_7.jpg,parachute,701,0.35585758,balloon,417,0.20516162,promontory,976,0.0023034853,cliff,972,0.002066607,flagpole,557,0.002011042
+tench_33.jpg,tench,0,0.35428834,barracouta,389,0.022002233,gar,395,0.016743809,rock beauty,392,0.007451262,reel,758,0.0038494072
+chainsaw_5.jpg,chain saw,491,0.31690583,lumbermill,634,0.15422575,park bench,703,0.012633883,canoe,472,0.011286532,bobsled,450,0.0110833505
+tench_27.jpg,tench,0,0.41241935,barracouta,389,0.031538494,reel,758,0.018370243,gar,395,0.0114228865,coho,391,0.007946298
+garbagetruck_16.jpg,garbage truck,569,0.12818114,moving van,675,0.1228115,crane,517,0.024451118,trailer truck,867,0.024306383,snowplow,803,0.022550987
+gaspump_58.jpg,gas pump,571,0.25775138,vending machine,886,0.1825724,digital clock,530,0.012795892,cash machine,480,0.012040116,slot,800,0.011979152
+englishspringer_46.jpg,tray,868,0.5296524,tobacco shop,860,0.013737331,theater curtain,854,0.011461338,scoreboard,781,0.010569785,doormat,539,0.009507712
+gaspump_70.jpg,gas pump,571,0.20760107,vending machine,886,0.04197498,cash machine,480,0.034856357,pay-phone,707,0.008735219,mailbox,637,0.0036905515
+gaspump_64.jpg,gas pump,571,0.13839947,pay-phone,707,0.11334159,vending machine,886,0.03181852,cash machine,480,0.023006514,ashcan,412,0.012612329
+englishspringer_52.jpg,book jacket,921,0.26935503,tray,868,0.10401431,binder,446,0.10033958,wall clock,892,0.051598128,comic book,917,0.030528618
+englishspringer_85.jpg,toyshop,865,0.21193086,tobacco shop,860,0.08606035,modem,662,0.045428555,oscilloscope,688,0.027798258,grocery store,582,0.013244321
+frenchhorn_6.jpg,French horn,566,0.3957783,cornet,513,0.0031892853,Siamese cat,284,0.0024262664,oboe,683,0.002040436,bassoon,432,0.0017536094
+englishspringer_91.jpg,tray,868,0.05676909,bib,443,0.038036566,coffee mug,504,0.03303392,shower cap,793,0.026176589,quilt,750,0.024879826
+church_88.jpg,church,497,0.5933805,bell cote,442,0.06748844,monastery,663,0.037144985,vault,884,0.010181638,altar,406,0.0042996374
+frenchhorn_17.jpg,French horn,566,0.36947247,cornet,513,0.0036576956,chain,488,0.003310057,knot,616,0.0028449185,bassoon,432,0.002737411
+chainsaw_79.jpg,chain saw,491,0.3393255,lumbermill,634,0.019136595,swab,840,0.007801634,pole,733,0.0045204125,canoe,472,0.0029144534
+chainsaw_51.jpg,hammer,587,0.16169702,chain saw,491,0.08770094,screwdriver,784,0.07898458,can opener,473,0.037361942,rule,769,0.02553022
+chainsaw_45.jpg,chain saw,491,0.64174145,pole,733,0.006337328,fox squirrel,335,0.00358264,hen-of-the-woods,996,0.0019872298,lumbermill,634,0.0016878498
+cassetteplayer_5.jpg,tape player,848,0.25469902,cassette player,482,0.14777565,cassette,481,0.1361183,CD player,485,0.044718638,radio,754,0.0052481
+parachute_28.jpg,parachute,701,0.32807237,balloon,417,0.0103472555,valley,979,0.0026849897,airship,405,0.0019887276,seashore,978,0.001934372
+golfball_14.jpg,golf ball,574,0.5418723,Pekinese,154,0.0010434189,Irish wolfhound,170,0.0010166381,polecat,358,0.00096024334,thimble,855,0.0009132744
+parachute_14.jpg,parachute,701,0.5698603,balloon,417,0.011903353,bow,456,0.004963787,lacewing,318,0.0025051432,damselfly,320,0.0023142828
+chainsaw_92.jpg,chain saw,491,0.3007063,balance beam,416,0.03254849,scabbard,777,0.021791205,cowboy hat,515,0.00979925,hatchet,596,0.005672852
+church_77.jpg,vault,884,0.30089232,church,497,0.2559267,altar,406,0.09925073,monastery,663,0.010009579,organ,687,0.008952426
+church_63.jpg,church,497,0.710968,bell cote,442,0.01179293,monastery,663,0.007031827,vault,884,0.0025638845,analog clock,409,0.0015535819
+golfball_28.jpg,golf ball,574,0.6180737,thimble,855,0.001244877,tennis ball,852,0.0006823282,remote control,761,0.00066323375,thunder snake,52,0.00062900694
+chainsaw_86.jpg,chain saw,491,0.5566602,frilled lizard,43,0.02245786,park bench,703,0.020404333,worm fence,912,0.009024618,agama,42,0.007927997
+church_75.jpg,church,497,0.85086447,bell cote,442,0.0025838267,vault,884,0.0024329654,monastery,663,0.0012162026,cinema,498,0.0011670329
+chainsaw_90.jpg,rule,769,0.36080003,chain saw,491,0.20005469,power drill,740,0.016222946,hammer,587,0.008412059,jean,608,0.007670117
+parachute_16.jpg,parachute,701,0.23723492,balloon,417,0.14145343,umbrella,879,0.0028211756,carousel,476,0.002437656,flagpole,557,0.0023071596
+chainsaw_84.jpg,can opener,473,0.067236274,letter opener,623,0.036471527,scabbard,777,0.028590558,rule,769,0.023181124,hammer,587,0.017231451
+church_61.jpg,church,497,0.32942507,bell cote,442,0.103939086,monastery,663,0.006719268,vault,884,0.0048773885,tile roof,858,0.0021530865
+cassetteplayer_7.jpg,tape player,848,0.19567588,CD player,485,0.14542603,radio,754,0.103339724,cassette player,482,0.09429028,cassette,481,0.0184978
+church_49.jpg,church,497,0.24130535,altar,406,0.18544483,monastery,663,0.048846234,vault,884,0.04544261,organ,687,0.003207879
+golfball_16.jpg,rifle,764,0.07457251,ballplayer,981,0.07432873,revolver,763,0.036561448,assault rifle,413,0.026629452,croquet ball,522,0.02016172
+chainsaw_53.jpg,chain saw,491,0.36950198,snowmobile,802,0.041669592,lawn mower,621,0.014903548,rule,769,0.012044283,oboe,683,0.008684802
+chainsaw_47.jpg,rule,769,0.13069652,worm fence,912,0.023779517,boa constrictor,61,0.011081892,slide rule,798,0.009046608,hatchet,596,0.0078017507
+frenchhorn_29.jpg,French horn,566,0.34327742,cornet,513,0.011843149,trombone,875,0.010317659,bassoon,432,0.0015800529,hook,600,0.0015309812
+frenchhorn_15.jpg,French horn,566,0.4688365,cornet,513,0.004322655,Siamese cat,284,0.0014737379,oboe,683,0.0012540948,chow,260,0.0011963397
+englishspringer_87.jpg,palace,698,0.30133677,library,624,0.092418045,dome,538,0.027927281,bookshop,454,0.021361252,window shade,905,0.01791925
+englishspringer_93.jpg,barrel,427,0.053254154,window screen,904,0.04639212,radiator,753,0.041322354,vault,884,0.036301218,pedestal,708,0.033365764
+frenchhorn_4.jpg,French horn,566,0.54830325,oboe,683,0.0026861017,table lamp,846,0.0026634135,cornet,513,0.0023713629,bassoon,432,0.0019073862
+gaspump_99.jpg,gas pump,571,0.3846359,ashcan,412,0.0295898,vending machine,886,0.02393343,cash machine,480,0.015038458,turnstile,877,0.0120673645
+gaspump_72.jpg,gas pump,571,0.5527238,mailbox,637,0.008145429,iPod,605,0.0065205893,lighter,626,0.005398296,cellular telephone,487,0.0040434585
+tench_8.jpg,tench,0,0.56787044,barracouta,389,0.0066157365,coho,391,0.0054876856,eel,390,0.003772304,reel,758,0.0027704975
+englishspringer_44.jpg,palace,698,0.16926382,library,624,0.07104738,lakeside,975,0.04057101,boathouse,449,0.020341525,buckeye,990,0.018670373
+englishspringer_50.jpg,mobile home,660,0.38458627,window screen,904,0.093582265,patio,706,0.050402258,picket fence,716,0.023289392,sliding door,799,0.022352615
+gaspump_66.jpg,gas pump,571,0.10836236,ashcan,412,0.079400964,turnstile,877,0.040866558,parking meter,704,0.029745992,vending machine,886,0.025105191
+englishspringer_78.jpg,prayer rug,741,0.50806934,handkerchief,591,0.0018538387,wool,911,0.0018225478,mosque,668,0.0012675934,throne,857,0.001086843
+garbagetruck_14.jpg,garbage truck,569,0.41217095,ambulance,407,0.020585736,moving van,675,0.012778535,snowplow,803,0.0067138523,police van,734,0.00520497
+tench_19.jpg,coho,391,0.16097857,gar,395,0.11918114,rock beauty,392,0.076208085,barracouta,389,0.059124887,tench,0,0.031651225
+chainsaw_7.jpg,chain saw,491,0.44576344,hand-held computer,590,0.0040930444,power drill,740,0.0039945934,manhole cover,640,0.0033353914,carpenter's kit,477,0.0030150386
+tench_31.jpg,tench,0,0.4541388,rock beauty,392,0.039533358,goldfish,1,0.011336982,barracouta,389,0.009797274,reel,758,0.009353707
+garbagetruck_28.jpg,trailer truck,867,0.32521302,garbage truck,569,0.061973147,moving van,675,0.051190887,tow truck,864,0.016003087,crane,517,0.007646573
+tench_25.jpg,tench,0,0.36689574,rock beauty,392,0.032809738,barracouta,389,0.006827644,goldfish,1,0.0044333884,coral reef,973,0.003292576
+parachute_5.jpg,speedboat,814,0.1214944,lakeside,975,0.062038064,amphibian,408,0.05466299,seashore,978,0.046485193,promontory,976,0.030452259
+cassetteplayer_22.jpg,tape player,848,0.10363033,CD player,485,0.09604286,cassette player,482,0.09540839,cassette,481,0.059893865,radio,754,0.02151622
+gaspump_2.jpg,gas pump,571,0.6858244,refrigerator,760,0.011302253,pay-phone,707,0.0071514677,cash machine,480,0.0029641613,vending machine,886,0.0024931969
+englishspringer_7.jpg,stone wall,825,0.24362327,valley,979,0.031220334,king penguin,145,0.028197836,ptarmigan,81,0.017978324,megalith,649,0.017744826
+cassetteplayer_36.jpg,tape player,848,0.39468724,cassette player,482,0.1373533,cassette,481,0.04204199,CD player,485,0.04068435,radio,754,0.026251435
+englishspringer_6.jpg,cloak,501,0.1033394,mask,643,0.10331777,bow tie,457,0.021610059,pillow,721,0.013806798,shower curtain,794,0.012502488
+cassetteplayer_37.jpg,tape player,848,0.29562956,cassette player,482,0.12053014,CD player,485,0.07629347,cassette,481,0.033381473,radio,754,0.027074553
+cassetteplayer_23.jpg,tape player,848,0.16300891,radio,754,0.085046954,cassette player,482,0.0767847,CD player,485,0.051587373,cassette,481,0.03425902
+gaspump_3.jpg,cash machine,480,0.23778096,vending machine,886,0.08756487,gas pump,571,0.085194714,pay-phone,707,0.04316249,tobacco shop,860,0.017694913
+parachute_4.jpg,parachute,701,0.62694335,balloon,417,0.0059619793,water snake,58,0.0024674167,valley,979,0.0019354706,flagpole,557,0.0019020499
+tench_24.jpg,tench,0,0.18097892,anemone fish,393,0.039399475,rock beauty,392,0.028836798,puffer,397,0.02530918,sea slug,115,0.017677482
+garbagetruck_29.jpg,garbage truck,569,0.401758,trailer truck,867,0.033390343,crane,517,0.021338645,snowplow,803,0.021032937,fire engine,555,0.018618653
+chainsaw_6.jpg,chain saw,491,0.13507469,hook,600,0.07437696,chain,488,0.04520433,screwdriver,784,0.030897284,chest,492,0.025514904
+tench_30.jpg,sea lion,150,0.06777132,eel,390,0.0672227,gar,395,0.05930456,tench,0,0.044157464,barracouta,389,0.037238788
+tench_18.jpg,barracouta,389,0.22840992,tench,0,0.20337917,gar,395,0.031983268,reel,758,0.024995925,coho,391,0.012601038
+garbagetruck_15.jpg,garbage truck,569,0.29435182,amphibian,408,0.01817094,crane,517,0.016762678,harvester,595,0.008031712,thresher,856,0.006978881
+englishspringer_79.jpg,boathouse,449,0.21964468,birdhouse,448,0.05840856,palace,698,0.026634553,lakeside,975,0.024370657,patio,706,0.023264915
+gaspump_67.jpg,gas pump,571,0.19372198,cash machine,480,0.07515458,vending machine,886,0.052304037,mailbox,637,0.0077107134,turnstile,877,0.006821636
+englishspringer_51.jpg,apron,411,0.17861444,backpack,414,0.07909473,mailbag,636,0.049881443,pillow,721,0.026925078,handkerchief,591,0.015683692
+englishspringer_45.jpg,palace,698,0.3676453,prison,743,0.05864691,castle,483,0.049345683,library,624,0.038146026,window screen,904,0.025284005
+tench_9.jpg,slug,114,0.06669979,flatworm,110,0.04137698,gar,395,0.03630043,sea slug,115,0.0154934265,coho,391,0.01442221
+gaspump_73.jpg,gas pump,571,0.35409883,cash machine,480,0.020397218,vending machine,886,0.009391345,slot,800,0.0036374284,mailbox,637,0.0029602575
+gaspump_98.jpg,vending machine,886,0.1790776,cash machine,480,0.11984392,gas pump,571,0.06939008,pay-phone,707,0.03134038,mailbox,637,0.018338362
+frenchhorn_5.jpg,French horn,566,0.32450125,cornet,513,0.16953143,trombone,875,0.022993319,bassoon,432,0.0017512508,sax,776,0.0016228752
+englishspringer_92.jpg,library,624,0.11372274,window screen,904,0.108012855,palace,698,0.07387363,window shade,905,0.0722588,picket fence,716,0.04151435
+englishspringer_86.jpg,microwave,651,0.3711991,dishwasher,534,0.030702662,stove,827,0.022759277,refrigerator,760,0.016449137,plate rack,729,0.015612338
+frenchhorn_14.jpg,French horn,566,0.52849543,cornet,513,0.015570653,trombone,875,0.0027884298,oboe,683,0.0011529301,bassoon,432,0.0010914037
+chainsaw_46.jpg,rule,769,0.061725806,hatchet,596,0.052291848,bow,456,0.039617416,hammer,587,0.02136543,scabbard,777,0.015942145
+frenchhorn_28.jpg,French horn,566,0.49472672,cornet,513,0.0075772735,trombone,875,0.005736071,bassoon,432,0.0022627385,sax,776,0.001639385
+chainsaw_52.jpg,chain saw,491,0.15924701,rule,769,0.036774773,slug,114,0.008930473,centipede,79,0.0071510687,gar,395,0.006362904
+golfball_17.jpg,golf ball,574,0.4599523,leatherback turtle,34,0.0026805685,dung beetle,305,0.002645008,horned viper,66,0.0025651886,puffer,397,0.0022581888
+church_48.jpg,altar,406,0.18188003,vault,884,0.16393737,church,497,0.15154971,monastery,663,0.014764801,organ,687,0.008088885
+cassetteplayer_6.jpg,tape player,848,0.15566733,cassette player,482,0.10035166,radio,754,0.07405623,CD player,485,0.037812933,cassette,481,0.025284115
+church_60.jpg,church,497,0.20325041,altar,406,0.17177555,vault,884,0.16292831,organ,687,0.026990667,monastery,663,0.0064210333
+chainsaw_85.jpg,chain saw,491,0.09062935,hand blower,589,0.015534692,power drill,740,0.013078761,fountain pen,563,0.009952771,screwdriver,784,0.007885717
+parachute_17.jpg,parachute,701,0.5598218,balloon,417,0.012588425,valley,979,0.008400498,alp,970,0.0017783924,cliff,972,0.0017666565
+chainsaw_91.jpg,chain saw,491,0.6593512,rule,769,0.026405495,power drill,740,0.0050812513,hammer,587,0.0042299605,gibbon,368,0.0034391403
+church_74.jpg,church,497,0.41715142,bell cote,442,0.10889479,monastery,663,0.0173969,dome,538,0.0029455645,vault,884,0.0024114843
+golfball_26.jpg,golf ball,574,0.38518342,thimble,855,0.0011740295,tennis ball,852,0.0011509178,jellyfish,107,0.0011363073,hammerhead,4,0.0010969876
+chainsaw_88.jpg,lumbermill,634,0.12097154,pole,733,0.08735364,walking stick,313,0.047132406,chain saw,491,0.03526901,worm fence,912,0.022629747
+golfball_32.jpg,golf ball,574,0.44103262,thimble,855,0.0027443343,ping-pong ball,722,0.002407669,tennis ball,852,0.001945143,hermit crab,125,0.0018627413
+church_79.jpg,bell cote,442,0.25719166,church,497,0.25391594,monastery,663,0.017374739,vault,884,0.014319588,palace,698,0.0032134503
+parachute_32.jpg,parachute,701,0.4443881,balloon,417,0.012224699,hyena,276,0.0032833233,valley,979,0.0032236357,gazelle,353,0.002897187
+church_51.jpg,church,497,0.28190693,bell cote,442,0.2142045,monastery,663,0.02020095,vault,884,0.005955464,dome,538,0.0024700726
+church_45.jpg,church,497,0.61228997,bell cote,442,0.033911355,monastery,663,0.008252854,vault,884,0.0026787831,dome,538,0.0024766878
+parachute_26.jpg,parachute,701,0.51602256,valley,979,0.013807398,balloon,417,0.006254881,cliff,972,0.0041407305,lakeside,975,0.0025059222
+frenchhorn_25.jpg,French horn,566,0.5763468,bassoon,432,0.0014580537,electric guitar,546,0.0013474469,nematode,111,0.0012503911,oboe,683,0.0011202862
+frenchhorn_31.jpg,French horn,566,0.5742948,cornet,513,0.0014682462,electric guitar,546,0.0012668703,bassoon,432,0.0011613537,vault,884,0.0010463863
+church_92.jpg,church,497,0.46938115,bell cote,442,0.16445534,monastery,663,0.025204172,vault,884,0.0068914723,dome,538,0.0023763122
+chainsaw_77.jpg,rule,769,0.2524333,chain saw,491,0.06877687,centipede,79,0.013019442,scorpion,71,0.012949487,stinkhorn,994,0.010300515
+frenchhorn_19.jpg,French horn,566,0.58804286,cornet,513,0.013123328,coil,506,0.0042594858,nematode,111,0.0022050934,hand blower,589,0.0018201399
+chainsaw_63.jpg,chain saw,491,0.40510798,swab,840,0.04971296,shovel,792,0.022230502,scabbard,777,0.0059180157,bow,456,0.004775619
+church_86.jpg,vault,884,0.34358853,church,497,0.1420335,altar,406,0.077757604,monastery,663,0.022529788,organ,687,0.008574313
+frenchhorn_8.jpg,French horn,566,0.55393773,cornet,513,0.005937893,trombone,875,0.0011290116,coil,506,0.0010424497,carpenter's kit,477,0.0010190723
+gaspump_95.jpg,cash machine,480,0.14702553,vending machine,886,0.052109987,gas pump,571,0.04854131,pay-phone,707,0.029344602,mailbox,637,0.0130655635
+gaspump_81.jpg,gas pump,571,0.19853032,cash machine,480,0.0404863,vending machine,886,0.027697306,slot,800,0.011570412,pay-phone,707,0.0072796494
+englishspringer_48.jpg,jigsaw puzzle,611,0.2743707,shower curtain,794,0.1088927,mask,643,0.023437869,packet,692,0.021016328,apron,411,0.018759122
+tench_4.jpg,tench,0,0.17276493,barracouta,389,0.11490634,gar,395,0.101998895,coho,391,0.07649709,sturgeon,394,0.01870406
+golfball_2.jpg,golf ball,574,0.22633715,mailbag,636,0.0068518952,whistle,902,0.0051869587,thimble,855,0.0049564415,chocolate sauce,960,0.0048919157
+englishspringer_60.jpg,brass,458,0.07576706,megalith,649,0.017154567,rifle,764,0.014319176,plow,730,0.012577113,menu,922,0.012030632
+gaspump_56.jpg,gas pump,571,0.09323825,pay-phone,707,0.083452426,vending machine,886,0.0785383,cash machine,480,0.07551481,turnstile,877,0.031233419
+gaspump_42.jpg,gas pump,571,0.29475072,vending machine,886,0.03573257,cash machine,480,0.025545964,parking meter,704,0.0064908634,turnstile,877,0.0031283933
+englishspringer_74.jpg,doormat,539,0.7645837,rain barrel,756,0.017142046,pot,738,0.014860332,stove,827,0.006133849,window screen,904,0.004946731
+garbagetruck_18.jpg,garbage truck,569,0.48864585,trailer truck,867,0.015429959,tow truck,864,0.0031418,forklift,561,0.0030090201,police van,734,0.0027153685
+tench_15.jpg,gar,395,0.26502895,barracouta,389,0.08023043,tench,0,0.04963813,goldfish,1,0.03813146,rock beauty,392,0.032868836
+garbagetruck_24.jpg,trailer truck,867,0.29552704,garbage truck,569,0.084476136,moving van,675,0.059314813,freight car,565,0.007856061,tow truck,864,0.0033565583
+tench_29.jpg,tench,0,0.37645924,barracouta,389,0.0378257,goldfish,1,0.030676153,coral reef,973,0.016100148,gar,395,0.013198208
+garbagetruck_30.jpg,garbage truck,569,0.293527,crane,517,0.027045107,trailer truck,867,0.014316726,police van,734,0.012249058,ambulance,407,0.010397881
+parachute_9.jpg,parachute,701,0.5418792,balloon,417,0.01422597,valley,979,0.0020756833,steel arch bridge,821,0.0014019832,airship,405,0.0013153605
+cassetteplayer_12.jpg,radio,754,0.11173532,tape player,848,0.109968305,cassette player,482,0.086873785,CD player,485,0.06382682,home theater,598,0.030202867
+cassetteplayer_13.jpg,tape player,848,0.25592306,cassette,481,0.20539339,cassette player,482,0.13056457,CD player,485,0.013365904,modem,662,0.009360172
+parachute_8.jpg,parachute,701,0.34932673,balloon,417,0.001978345,panpipe,699,0.0019705307,flagpole,557,0.0016608422,hornbill,93,0.0015580578
+garbagetruck_31.jpg,garbage truck,569,0.31648704,snowplow,803,0.13485944,crane,517,0.022842651,trailer truck,867,0.0064677834,moving van,675,0.0037798912
+tench_28.jpg,tench,0,0.46408248,barracouta,389,0.056211475,gar,395,0.017208397,coho,391,0.010527119,reel,758,0.005694789
+garbagetruck_25.jpg,garbage truck,569,0.4423055,snowplow,803,0.027499815,tow truck,864,0.02140057,trailer truck,867,0.020673562,fire engine,555,0.018422125
+tench_14.jpg,gar,395,0.28051978,barracouta,389,0.08989423,tench,0,0.060335703,reel,758,0.019400485,coho,391,0.018464606
+garbagetruck_19.jpg,trailer truck,867,0.15982911,crane,517,0.11707558,harvester,595,0.08650615,tow truck,864,0.039276507,golfcart,575,0.020831218
+englishspringer_75.jpg,comic book,917,0.28205633,lighter,626,0.03088049,manhole cover,640,0.0305703,buckle,464,0.02986526,toilet seat,861,0.010807071
+gaspump_43.jpg,gas pump,571,0.11060875,cash machine,480,0.05660349,ashcan,412,0.037742876,vending machine,886,0.030791901,pay-phone,707,0.029595707
+gaspump_57.jpg,cash machine,480,0.22428133,vending machine,886,0.06520531,gas pump,571,0.027355863,ashcan,412,0.015841218,mailbox,637,0.015562323
+englishspringer_61.jpg,trifle,927,0.09084229,face powder,551,0.06041806,mixing bowl,659,0.047212146,Petri dish,712,0.034308,plate,923,0.027545458
+golfball_3.jpg,golf ball,574,0.45261163,ping-pong ball,722,0.0018236187,pool table,736,0.0015402125,tennis ball,852,0.0015374431,web site,916,0.0014150238
+tench_5.jpg,tench,0,0.37786528,barracouta,389,0.032236952,gar,395,0.0059688124,sturgeon,394,0.0031081252,coho,391,0.0029288102
+englishspringer_49.jpg,packet,692,0.63707983,mailbox,637,0.043139324,library,624,0.04259658,tobacco shop,860,0.019004477,brass,458,0.012037464
+gaspump_80.jpg,gas pump,571,0.14484595,ashcan,412,0.11905253,mailbox,637,0.09221336,cash machine,480,0.029554516,turnstile,877,0.017985277
+gaspump_94.jpg,cash machine,480,0.17684573,gas pump,571,0.07142196,ashcan,412,0.03873284,vending machine,886,0.035584204,mailbox,637,0.021565927
+frenchhorn_9.jpg,French horn,566,0.4390574,cornet,513,0.010332485,nematode,111,0.0022925253,bassoon,432,0.0016402808,whistle,902,0.0015822375
+church_87.jpg,vault,884,0.3081674,church,497,0.13070112,altar,406,0.117933676,organ,687,0.025958475,monastery,663,0.016482094
+chainsaw_62.jpg,chain saw,491,0.19693188,scabbard,777,0.041289657,lumbermill,634,0.028199626,corkscrew,512,0.026559867,chest,492,0.01626505
+chainsaw_76.jpg,hammer,587,0.1229307,chain saw,491,0.05325651,corkscrew,512,0.05274042,can opener,473,0.03342428,carpenter's kit,477,0.027755074
+church_93.jpg,church,497,0.33992705,altar,406,0.17776744,vault,884,0.17413212,monastery,663,0.019835578,organ,687,0.013661185
+frenchhorn_18.jpg,French horn,566,0.5697055,cornet,513,0.00210912,bassoon,432,0.0017106181,coil,506,0.0014784293,acoustic guitar,402,0.0014721284
+frenchhorn_30.jpg,French horn,566,0.39213032,cornet,513,0.035269286,trombone,875,0.0036614635,oboe,683,0.0019391153,bassoon,432,0.001389206
+frenchhorn_24.jpg,French horn,566,0.5260733,cornet,513,0.0034961698,table lamp,846,0.0018066651,carpenter's kit,477,0.0014094376,oboe,683,0.0012717078
+parachute_27.jpg,parachute,701,0.5476993,umbrella,879,0.00142745,broom,462,0.0012803306,switch,844,0.0012602622,seashore,978,0.0010821887
+church_44.jpg,church,497,0.43159747,bell cote,442,0.119144924,monastery,663,0.016559146,vault,884,0.0036802841,chime,494,0.0016682226
+church_50.jpg,church,497,0.32772174,bell cote,442,0.10744931,monastery,663,0.030703645,vault,884,0.017328024,dome,538,0.0042527756
+parachute_33.jpg,parachute,701,0.6414444,balloon,417,0.004039163,seashore,978,0.0035958425,swab,840,0.0026029942,cradle,516,0.0024292534
+church_78.jpg,church,497,0.28243017,vault,884,0.24363472,altar,406,0.12791058,monastery,663,0.028715055,organ,687,0.010343206
+golfball_33.jpg,golf ball,574,0.5928239,thimble,855,0.0010886965,honeycomb,599,0.0008309464,remote control,761,0.0007513808,matchstick,644,0.00074314023
+chainsaw_89.jpg,chain saw,491,0.6050264,rule,769,0.002354715,moped,665,0.0022425305,motor scooter,670,0.0015117251,harvester,595,0.0013372066
+golfball_27.jpg,golf ball,574,0.38647926,thimble,855,0.0032617927,soccer ball,805,0.0024748356,tennis ball,852,0.002452984,croquet ball,522,0.0022168907
+parachute_19.jpg,parachute,701,0.64712673,valley,979,0.0037110113,lakeside,975,0.0017824179,skunk,361,0.001554517,steel arch bridge,821,0.0015522778
+golfball_31.jpg,golf ball,574,0.14281203,matchstick,644,0.060654864,ping-pong ball,722,0.044264674,strainer,828,0.04039564,pill bottle,720,0.032501154
+golfball_25.jpg,golf ball,574,0.58092135,thimble,855,0.0053402777,strainer,828,0.0021632407,honeycomb,599,0.001998973,goblet,572,0.0019902885
+cassetteplayer_8.jpg,CD player,485,0.21693495,radio,754,0.1338696,tape player,848,0.11415969,cassette player,482,0.06473388,cassette,481,0.019374045
+church_46.jpg,church,497,0.39318994,altar,406,0.20756203,vault,884,0.079688914,organ,687,0.00989575,monastery,663,0.0066592544
+parachute_25.jpg,parachute,701,0.5418617,seashore,978,0.010612066,lakeside,975,0.0038215078,promontory,976,0.0029613154,breakwater,460,0.0015154445
+parachute_31.jpg,parachute,701,0.5424545,balloon,417,0.0018384437,airship,405,0.00096558966,panpipe,699,0.00091099914,seashore,978,0.0008604126
+golfball_19.jpg,golf ball,574,0.45837945,ballpoint,418,0.0035983708,drumstick,542,0.0025062817,tripod,872,0.0020936134,ladle,618,0.001877094
+church_52.jpg,vault,884,0.30147472,altar,406,0.1319482,church,497,0.10839653,monastery,663,0.05454261,organ,687,0.027866727
+frenchhorn_32.jpg,French horn,566,0.5118706,cornet,513,0.006890087,trombone,875,0.0018001571,mixing bowl,659,0.001445474,rocking chair,765,0.0013941121
+frenchhorn_26.jpg,French horn,566,0.56352943,cornet,513,0.0037347039,trombone,875,0.0013459418,vault,884,0.0012534476,Siamese cat,284,0.001206327
+chainsaw_48.jpg,scabbard,777,0.19679712,ski,795,0.057752647,racket,752,0.033190895,reel,758,0.031870294,hook,600,0.025507752
+chainsaw_60.jpg,chain saw,491,0.1458445,scabbard,777,0.038943682,letter opener,623,0.023925552,rifle,764,0.02234871,hatchet,596,0.022317704
+church_85.jpg,altar,406,0.14493667,vault,884,0.14451708,church,497,0.14313859,organ,687,0.024813306,monastery,663,0.008186317
+church_91.jpg,church,497,0.17226449,vault,884,0.1686746,altar,406,0.07510145,monastery,663,0.019765837,organ,687,0.009770092
+chainsaw_74.jpg,chain saw,491,0.5160964,lawn mower,621,0.008776165,power drill,740,0.0036659434,chain,488,0.0035326602,harvester,595,0.00293609
+englishspringer_88.jpg,seashore,978,0.17056514,paddle,693,0.09325739,toyshop,865,0.07732559,jigsaw puzzle,611,0.040463462,lakeside,975,0.030266568
+gaspump_82.jpg,gas pump,571,0.16035643,vending machine,886,0.08338253,cash machine,480,0.02613832,parking meter,704,0.017112834,mailbox,637,0.014287636
+gaspump_96.jpg,gas pump,571,0.40594146,cash machine,480,0.019393038,pay-phone,707,0.015286824,vending machine,886,0.01322883,turnstile,877,0.0058522807
+tench_7.jpg,tench,0,0.521395,barracouta,389,0.031160474,reel,758,0.018496482,rock beauty,392,0.011786508,coho,391,0.010160613
+gaspump_69.jpg,gas pump,571,0.27448893,cash machine,480,0.018497743,pay-phone,707,0.018000036,turnstile,877,0.0060474533,ambulance,407,0.0060275276
+gaspump_41.jpg,gas pump,571,0.2931736,pay-phone,707,0.008351077,cash machine,480,0.0060693272,vending machine,886,0.0027955512,parking meter,704,0.0021795186
+englishspringer_77.jpg,tobacco shop,860,0.1591749,toyshop,865,0.061084054,medicine chest,648,0.043375228,bookcase,453,0.026443636,lotion,631,0.02180142
+englishspringer_63.jpg,unicycle,880,0.1171057,bicycle-built-for-two,444,0.034358703,coyote,272,0.023907742,worm fence,912,0.016283937,bison,347,0.014237054
+golfball_1.jpg,golf ball,574,0.49654505,thimble,855,0.0028780992,dung beetle,305,0.002367453,leatherback turtle,34,0.0021819633,horned viper,66,0.0020237619
+gaspump_55.jpg,gas pump,571,0.11161439,pay-phone,707,0.088688105,cash machine,480,0.03471232,mailbox,637,0.017077196,vending machine,886,0.015185428
+tench_16.jpg,tench,0,0.61469376,barracouta,389,0.032131825,gar,395,0.0128048435,sturgeon,394,0.0034530126,coho,391,0.003203593
+garbagetruck_33.jpg,garbage truck,569,0.2935799,trailer truck,867,0.027306248,snowplow,803,0.010812894,tow truck,864,0.007109051,crane,517,0.005309114
+chainsaw_8.jpg,chain saw,491,0.6380987,lawn mower,621,0.003139366,harvester,595,0.0019584834,snowmobile,802,0.0015858951,power drill,740,0.001140762
+garbagetruck_27.jpg,garbage truck,569,0.31278905,crane,517,0.046454556,snowplow,803,0.034471713,tow truck,864,0.027004007,trailer truck,867,0.02093503
+cassetteplayer_11.jpg,cassette,481,0.35961497,tape player,848,0.23130105,cassette player,482,0.18493448,space bar,810,0.0036641057,modem,662,0.0036307373
+cassetteplayer_39.jpg,tape player,848,0.15212943,cassette player,482,0.11492408,CD player,485,0.10643778,radio,754,0.10090906,cassette,481,0.040486816
+englishspringer_8.jpg,traffic light,920,0.09985858,flagpole,557,0.06776397,street sign,919,0.04781506,bell cote,442,0.0457318,crane,517,0.045085657
+cassetteplayer_38.jpg,radio,754,0.14720365,tape player,848,0.11890004,cassette player,482,0.059172068,rule,769,0.045639936,slide rule,798,0.041249514
+englishspringer_9.jpg,buckeye,990,0.31198734,park bench,703,0.2055281,lakeside,975,0.0876043,obelisk,682,0.011571562,worm fence,912,0.007157699
+cassetteplayer_10.jpg,cassette,481,0.15532766,tape player,848,0.114504576,cassette player,482,0.078679085,radio,754,0.009897422,CD player,485,0.0038240554
+garbagetruck_26.jpg,garbage truck,569,0.22448568,crane,517,0.054302722,trailer truck,867,0.04233256,snowplow,803,0.036629524,moving van,675,0.010795097
+garbagetruck_32.jpg,garbage truck,569,0.27107024,trailer truck,867,0.09725004,snowplow,803,0.07305497,moving van,675,0.02118123,crane,517,0.0104140835
+chainsaw_9.jpg,night snake,60,0.09059437,rule,769,0.06646493,sidewinder,68,0.030701544,hognose snake,54,0.030491464,horned viper,66,0.029186893
+tench_17.jpg,tench,0,0.4217027,barracouta,389,0.004962706,eel,390,0.0048098112,electric ray,5,0.0029064994,coho,391,0.002441836
+gaspump_54.jpg,gas pump,571,0.654245,cash machine,480,0.027200688,pay-phone,707,0.005834546,vending machine,886,0.005794902,parking meter,704,0.0016026298
+golfball_0.jpg,golf ball,574,0.455326,ping-pong ball,722,0.0031420202,leatherback turtle,34,0.002335626,hermit crab,125,0.0021731826,tennis ball,852,0.0021683858
+englishspringer_62.jpg,microwave,651,0.56438047,stove,827,0.073240764,dishwasher,534,0.026494496,refrigerator,760,0.01493927,recreational vehicle,757,0.012150713
+englishspringer_76.jpg,tray,868,0.16599482,shield,787,0.16032076,face powder,551,0.064023234,soup bowl,809,0.04349757,sombrero,808,0.024047632
+gaspump_40.jpg,gas pump,571,0.32838008,pay-phone,707,0.067537345,cash machine,480,0.013572698,vending machine,886,0.009149443,streetcar,829,0.0053520063
+gaspump_68.jpg,cash machine,480,0.12633736,gas pump,571,0.11106418,pay-phone,707,0.086088724,vending machine,886,0.02328841,slot,800,0.009592894
+tench_6.jpg,tench,0,0.27793247,rock beauty,392,0.15971357,barracouta,389,0.03236454,electric ray,5,0.017632777,reel,758,0.017242365
+gaspump_97.jpg,gas pump,571,0.27695855,turnstile,877,0.09283455,cash machine,480,0.061288305,vending machine,886,0.013223681,pay-phone,707,0.011468426
+gaspump_83.jpg,gas pump,571,0.42195845,cash machine,480,0.023529554,ashcan,412,0.019403689,vending machine,886,0.019253574,mailbox,637,0.013467265
+englishspringer_89.jpg,window screen,904,0.17417392,mobile home,660,0.13954978,sliding door,799,0.057785235,patio,706,0.0477166,boathouse,449,0.017455826
+chainsaw_75.jpg,chain saw,491,0.5041363,vacuum,882,0.025634622,screwdriver,784,0.01963266,lighter,626,0.01231694,power drill,740,0.010764039
+church_90.jpg,church,497,0.47620067,altar,406,0.12307817,vault,884,0.105829984,monastery,663,0.010391313,organ,687,0.008596055
+church_84.jpg,church,497,0.26746216,altar,406,0.1946376,vault,884,0.033219367,organ,687,0.012748281,monastery,663,0.008486024
+chainsaw_61.jpg,chain saw,491,0.36728594,corkscrew,512,0.03359765,can opener,473,0.023568252,swab,840,0.020919299,hammer,587,0.015380666
+frenchhorn_27.jpg,French horn,566,0.43002042,cornet,513,0.0026123004,coil,506,0.0015159354,bassoon,432,0.0014469504,chocolate sauce,960,0.0014379586
+chainsaw_49.jpg,chain,488,0.20791066,pick,714,0.0393828,comic book,917,0.011310263,neck brace,678,0.010958864,padlock,695,0.0093678
+frenchhorn_33.jpg,French horn,566,0.38810816,cornet,513,0.019378182,coil,506,0.004237005,nematode,111,0.0025586975,Mexican hairless,268,0.0020821434
+church_53.jpg,altar,406,0.1482248,church,497,0.1429578,vault,884,0.14151035,monastery,663,0.023296995,organ,687,0.015983112
+golfball_18.jpg,golf ball,574,0.35131767,maze,646,0.033178356,worm fence,912,0.0034121643,castle,483,0.003120018,palace,698,0.00301611
+parachute_30.jpg,parachute,701,0.5750056,sleeping bag,797,0.008186748,balloon,417,0.007905845,jellyfish,107,0.0031570853,quill,749,0.0014506514
+parachute_24.jpg,parachute,701,0.5583805,balloon,417,0.0010203655,table lamp,846,0.0009588405,golf ball,574,0.00089639064,soccer ball,805,0.00087505387
+church_47.jpg,vault,884,0.29191783,altar,406,0.17395838,church,497,0.12390911,monastery,663,0.031366408,organ,687,0.015867759
+cassetteplayer_9.jpg,tape player,848,0.16628411,cassette player,482,0.08063413,radio,754,0.07789322,hand-held computer,590,0.076568455,CD player,485,0.0332204
+golfball_24.jpg,golf ball,574,0.42403162,tennis ball,852,0.020056108,soccer ball,805,0.009528122,park bench,703,0.0063097365,nail,677,0.0053503383
+golfball_30.jpg,golf ball,574,0.45987386,thimble,855,0.0022779154,honeycomb,599,0.0018531916,goblet,572,0.0013714959,cup,968,0.0011871635
+parachute_18.jpg,parachute,701,0.53112537,balloon,417,0.004950505,water snake,58,0.0018164519,broom,462,0.0015274201,valley,979,0.0013388804
+church_43.jpg,vault,884,0.25655335,altar,406,0.22937956,church,497,0.17897676,organ,687,0.010179123,monastery,663,0.009336566
+parachute_20.jpg,parachute,701,0.7036353,valley,979,0.006114572,cliff,972,0.0013951543,alp,970,0.0013787787,dam,525,0.0010116893
+parachute_34.jpg,parachute,701,0.43259558,ant,310,0.0015966444,seashore,978,0.0011873714,balloon,417,0.0011405362,steel arch bridge,821,0.0011096959
+church_57.jpg,church,497,0.44762644,bell cote,442,0.06523378,monastery,663,0.046715304,prayer rug,741,0.007130145,dome,538,0.0056955167
+golfball_34.jpg,golf ball,574,0.42708817,thimble,855,0.0019494431,tennis ball,852,0.0018797524,ping-pong ball,722,0.0015842868,hermit crab,125,0.001529422
+golfball_20.jpg,golf ball,574,0.49150613,thimble,855,0.0019526081,spotlight,818,0.001732313,ping-pong ball,722,0.0014474168,sea lion,150,0.0011549898
+chainsaw_65.jpg,chain saw,491,0.54219615,lawn mower,621,0.008260222,go-kart,573,0.0030905148,tricycle,870,0.002810254,hammer,587,0.002481951
+church_80.jpg,church,497,0.5331927,bell cote,442,0.007953376,monastery,663,0.0060058963,castle,483,0.0035695205,barn,425,0.002581385
+church_94.jpg,altar,406,0.28681442,prayer rug,741,0.056898084,fire screen,556,0.04613072,wardrobe,894,0.037097435,vault,884,0.029544627
+chainsaw_71.jpg,rifle,764,0.16147864,revolver,763,0.116156615,assault rifle,413,0.03354337,plane,726,0.027559675,thatch,853,0.015406653
+frenchhorn_37.jpg,French horn,566,0.5618926,cornet,513,0.013989901,trombone,875,0.0019918457,chain,488,0.0017851834,bassoon,432,0.0017224249
+chainsaw_59.jpg,rule,769,0.0919972,rifle,764,0.026941666,bow,456,0.023652997,hammer,587,0.015971286,shovel,792,0.013940604
+frenchhorn_23.jpg,French horn,566,0.5776489,cornet,513,0.0013253134,table lamp,846,0.0012308651,mixing bowl,659,0.00122499,electric guitar,546,0.0011963976
+gaspump_87.jpg,gas pump,571,0.5333084,cash machine,480,0.046297994,pay-phone,707,0.027437862,mailbox,637,0.0229739,vending machine,886,0.008287911
+gaspump_93.jpg,gas pump,571,0.158828,vending machine,886,0.10304095,cash machine,480,0.053162985,parking meter,704,0.03651071,pay-phone,707,0.017478738
+englishspringer_99.jpg,beach wagon,436,0.30880064,grille,581,0.029096982,convertible,511,0.02359436,car wheel,479,0.020612337,limousine,627,0.010559258
+gaspump_44.jpg,gas pump,571,0.21612091,vending machine,886,0.09477407,cash machine,480,0.074922204,pay-phone,707,0.005930737,scoreboard,781,0.005788661
+englishspringer_72.jpg,jigsaw puzzle,611,0.16905555,shower curtain,794,0.046554565,toyshop,865,0.04230054,confectionery,509,0.038292717,apron,411,0.016146269
+englishspringer_66.jpg,lumbermill,634,0.103575766,greenhouse,580,0.0898661,vault,884,0.04511111,prison,743,0.03370601,digital clock,530,0.009342079
+golfball_4.jpg,strainer,828,0.49833438,golf ball,574,0.039024748,thimble,855,0.019640015,microphone,650,0.012049162,teapot,849,0.010815482
+gaspump_50.jpg,gas pump,571,0.31640548,cash machine,480,0.050404355,pay-phone,707,0.024074256,parking meter,704,0.022888912,vending machine,886,0.019871503
+tench_2.jpg,tench,0,0.19155978,gar,395,0.06841875,barracouta,389,0.06162867,rock beauty,392,0.04502707,reel,758,0.03126361
+gaspump_78.jpg,gas pump,571,0.15896218,parking meter,704,0.03558053,vending machine,886,0.017283797,cash machine,480,0.01666405,iPod,605,0.010032505
+garbagetruck_36.jpg,garbage truck,569,0.26393467,trailer truck,867,0.032862835,mobile home,660,0.0112064555,moving van,675,0.009685487,tow truck,864,0.0044694305
+garbagetruck_22.jpg,garbage truck,569,0.18609132,tow truck,864,0.043127686,moving van,675,0.037716605,trailer truck,867,0.03196067,crane,517,0.009905553
+tench_13.jpg,tench,0,0.23963809,barracouta,389,0.11464522,gar,395,0.027144486,reel,758,0.022982,rock beauty,392,0.009128408
+cassetteplayer_28.jpg,radio,754,0.11780176,tape player,848,0.110840954,cassette player,482,0.08995516,CD player,485,0.0473808,cassette,481,0.016433446
+gaspump_8.jpg,gas pump,571,0.15581946,neck brace,678,0.046199843,cash machine,480,0.045809086,car wheel,479,0.017095106,racer,751,0.01601236
+cassetteplayer_14.jpg,tape player,848,0.33393642,cassette player,482,0.15096201,radio,754,0.10559702,CD player,485,0.039441288,cassette,481,0.017623302
+cassetteplayer_15.jpg,cassette player,482,0.19133903,tape player,848,0.17469117,cassette,481,0.12410835,CD player,485,0.0061478354,crate,519,0.0028094628
+cassetteplayer_29.jpg,tape player,848,0.18849969,cassette player,482,0.11879822,cassette,481,0.08624904,radio,754,0.08168901,CD player,485,0.019732859
+gaspump_9.jpg,gas pump,571,0.14636429,cash machine,480,0.08627393,vending machine,886,0.015545537,pay-phone,707,0.0057706903,mailbox,637,0.005133529
+tench_12.jpg,tench,0,0.6903162,reel,758,0.0091830855,rock beauty,392,0.009123452,anemone fish,393,0.004520525,barracouta,389,0.004227205
+garbagetruck_23.jpg,garbage truck,569,0.38131866,trailer truck,867,0.03364437,tow truck,864,0.026020803,moving van,675,0.012830301,police van,734,0.011170265
+garbagetruck_37.jpg,garbage truck,569,0.4711454,thresher,856,0.0045952126,trailer truck,867,0.0026177114,barrel,427,0.002195317,harvester,595,0.0020131601
+gaspump_79.jpg,gas pump,571,0.57650506,vending machine,886,0.012738773,cash machine,480,0.009444259,parking meter,704,0.0061302194,mailbox,637,0.0051248386
+tench_3.jpg,tench,0,0.20884454,reel,758,0.045977928,barracouta,389,0.031894088,gar,395,0.02569698,coho,391,0.018303208
+gaspump_51.jpg,vending machine,886,0.22410402,gas pump,571,0.082619846,cash machine,480,0.008985233,pop bottle,737,0.007806423,racer,751,0.0054045315
+golfball_5.jpg,golf ball,574,0.47316015,ballpoint,418,0.004941987,thimble,855,0.002392046,paintbrush,696,0.0023746341,maraca,641,0.0020325072
+englishspringer_67.jpg,mobile home,660,0.09427511,patio,706,0.059087917,window screen,904,0.0400151,solar dish,807,0.02848244,lakeside,975,0.026260627
+englishspringer_73.jpg,mobile home,660,0.09405969,picket fence,716,0.081087,window screen,904,0.07271458,patio,706,0.07067329,lakeside,975,0.057549402
+gaspump_45.jpg,gas pump,571,0.39595294,mailbox,637,0.0115331225,vending machine,886,0.008751447,pay-phone,707,0.0072351955,cash machine,480,0.0033899446
+englishspringer_98.jpg,barn,425,0.21787007,tile roof,858,0.052813128,boathouse,449,0.019683596,library,624,0.012666128,beacon,437,0.0120744435
+gaspump_92.jpg,gas pump,571,0.1771953,cash machine,480,0.09507583,vending machine,886,0.071458615,parking meter,704,0.013867997,pay-phone,707,0.008745731
+gaspump_86.jpg,gas pump,571,0.6377874,tricycle,870,0.0052104453,pay-phone,707,0.0035465306,vacuum,882,0.0029633217,turnstile,877,0.0029515775
+frenchhorn_22.jpg,French horn,566,0.47790325,cornet,513,0.0034148633,oboe,683,0.0014310826,bassoon,432,0.0013521246,electric guitar,546,0.001344297
+frenchhorn_36.jpg,French horn,566,0.53482443,cornet,513,0.0056799385,hair slide,584,0.0018206309,chain,488,0.0013122963,bassoon,432,0.001295229
+chainsaw_58.jpg,chain,488,0.15147425,disk brake,535,0.09719708,lawn mower,621,0.023385165,sandal,774,0.022830522,car wheel,479,0.022746319
+chainsaw_70.jpg,chain saw,491,0.21129625,ski,795,0.09816283,scabbard,777,0.040450428,letter opener,623,0.029156627,corkscrew,512,0.018441105
+church_95.jpg,altar,406,0.32425803,vault,884,0.15087678,church,497,0.11358812,organ,687,0.008681843,monastery,663,0.008028337
+church_81.jpg,church,497,0.39883497,altar,406,0.18460418,vault,884,0.0541559,organ,687,0.0063255094,monastery,663,0.0037059523
+chainsaw_64.jpg,chain saw,491,0.806988,rule,769,0.0034497597,lawn mower,621,0.00066823314,switch,844,0.000610553,power drill,740,0.0005876208
+golfball_21.jpg,golf ball,574,0.46793187,gibbon,368,0.0057233027,ladle,618,0.0045067524,goblet,572,0.0042039067,binder,446,0.0033414403
+golfball_35.jpg,golf ball,574,0.53749037,thimble,855,0.001233171,honeycomb,599,0.0011137493,tennis ball,852,0.0009301204,Irish terrier,184,0.00089078833
+church_56.jpg,church,497,0.26346317,vault,884,0.0218999,monastery,663,0.020662852,bell cote,442,0.0167427,altar,406,0.016314324
+parachute_35.jpg,parachute,701,0.63740927,balloon,417,0.0041487175,lampshade,619,0.0013968319,seashore,978,0.001015497,airship,405,0.0010050464
+parachute_21.jpg,parachute,701,0.7112988,valley,979,0.0075994143,lakeside,975,0.0029861582,seashore,978,0.0022292072,cliff,972,0.0021086987
+church_42.jpg,altar,406,0.24367157,church,497,0.20908429,vault,884,0.09869268,monastery,663,0.009294567,organ,687,0.00774565
+parachute_37.jpg,parachute,701,0.5375123,valley,979,0.005259767,balloon,417,0.004734023,lakeside,975,0.003963492,seashore,978,0.002594336
+church_54.jpg,church,497,0.3607816,bell cote,442,0.15723,monastery,663,0.022109378,vault,884,0.009208865,tile roof,858,0.0019161806
+church_40.jpg,church,497,0.3396708,bell cote,442,0.04085869,monastery,663,0.03180185,dome,538,0.009317892,palace,698,0.0037751384
+parachute_23.jpg,parachute,701,0.3340951,lakeside,975,0.027060393,dam,525,0.014546192,balloon,417,0.011882839,valley,979,0.010375416
+golfball_23.jpg,thimble,855,0.38252953,golf ball,574,0.24278538,strainer,828,0.009612816,ping-pong ball,722,0.006602253,baseball,429,0.004342735
+church_68.jpg,vault,884,0.19006571,altar,406,0.13121007,church,497,0.09734116,monastery,663,0.032904755,bell cote,442,0.0084980335
+chainsaw_99.jpg,power drill,740,0.12475509,chain saw,491,0.07239615,hand blower,589,0.011639495,screwdriver,784,0.008983266,mountain bike,671,0.0087915985
+golfball_37.jpg,golf ball,574,0.6636599,tennis ball,852,0.0024861423,football helmet,560,0.0020130044,doormat,539,0.0020075329,soccer ball,805,0.0017290144
+church_97.jpg,church,497,0.34018785,bell cote,442,0.11947202,monastery,663,0.028998537,vault,884,0.012577866,palace,698,0.0032349431
+chainsaw_72.jpg,chain saw,491,0.35947976,hook,600,0.005602785,rule,769,0.0051669446,chain,488,0.0045118453,walking stick,313,0.0038321929
+chainsaw_66.jpg,chain saw,491,0.063435085,gar,395,0.023161456,hammer,587,0.02315284,common iguana,39,0.022326253,plane,726,0.021705827
+church_83.jpg,church,497,0.14225625,vault,884,0.13812809,altar,406,0.13154507,monastery,663,0.021860175,organ,687,0.01187886
+frenchhorn_20.jpg,French horn,566,0.6008909,theater curtain,854,0.006562366,cloak,501,0.0014666921,shower curtain,794,0.0014021405,cornet,513,0.0013541038
+frenchhorn_34.jpg,French horn,566,0.46576643,cornet,513,0.005958186,bassoon,432,0.0018741732,oboe,683,0.0015072514,carpenter's kit,477,0.0012587367
+gaspump_90.jpg,turnstile,877,0.11221586,gas pump,571,0.06669447,parking meter,704,0.05026845,pay-phone,707,0.024900788,mailbox,637,0.020229148
+gaspump_84.jpg,gas pump,571,0.35065615,cash machine,480,0.008011151,vending machine,886,0.005993527,pay-phone,707,0.004453949,mailbox,637,0.0025433975
+golfball_7.jpg,golf ball,574,0.14591566,lakeside,975,0.08625382,radio telescope,755,0.034239843,beacon,437,0.02529276,seashore,978,0.015561553
+englishspringer_65.jpg,pickup,717,0.37027416,convertible,511,0.019906892,car wheel,479,0.012982904,beach wagon,436,0.0073904903,tow truck,864,0.0070426962
+gaspump_53.jpg,gas pump,571,0.53734666,cash machine,480,0.021379713,pay-phone,707,0.011450375,mailbox,637,0.0070688915,vending machine,886,0.0041361363
+gaspump_47.jpg,gas pump,571,0.4425984,cash machine,480,0.017580584,vending machine,886,0.0111996615,pay-phone,707,0.010302641,parking meter,704,0.008659109
+englishspringer_71.jpg,lakeside,975,0.3794027,valley,979,0.19880122,boathouse,449,0.078346126,dam,525,0.008462345,breakwater,460,0.007880412
+englishspringer_59.jpg,brass,458,0.14232916,menu,922,0.02838939,book jacket,921,0.025804576,cash machine,480,0.017362332,drilling platform,540,0.015368558
+tench_1.jpg,tench,0,0.5520754,fire screen,556,0.008491073,barracouta,389,0.007737697,reel,758,0.00530973,rock beauty,392,0.0029793964
+garbagetruck_21.jpg,garbage truck,569,0.28476706,tow truck,864,0.040482882,trailer truck,867,0.021490589,crane,517,0.018662402,snowplow,803,0.009970465
+garbagetruck_35.jpg,garbage truck,569,0.25567538,recreational vehicle,757,0.028160686,police van,734,0.017135782,moving van,675,0.01533212,ambulance,407,0.014609605
+tench_38.jpg,goldfish,1,0.23621179,tench,0,0.15421948,barracouta,389,0.026846357,rock beauty,392,0.015845727,gar,395,0.010405508
+tench_10.jpg,tench,0,0.6673729,barracouta,389,0.018410577,reel,758,0.004343701,goldfish,1,0.0042483816,gar,395,0.003948936
+cassetteplayer_17.jpg,tape player,848,0.154224,cassette,481,0.095304415,cassette player,482,0.088437796,radio,754,0.059916787,cellular telephone,487,0.027955402
+cassetteplayer_16.jpg,tape player,848,0.14662337,cassette player,482,0.12311781,radio,754,0.07018444,cassette,481,0.037260443,switch,844,0.035263482
+tench_11.jpg,tench,0,0.271739,dugong,149,0.020309776,barracouta,389,0.012974396,anemone fish,393,0.009634696,goldfish,1,0.0073694787
+tench_39.jpg,barracouta,389,0.10682268,tench,0,0.08434786,gar,395,0.071487576,coho,391,0.06800084,reel,758,0.028210297
+garbagetruck_34.jpg,garbage truck,569,0.33442786,tow truck,864,0.060709517,snowplow,803,0.018055819,trailer truck,867,0.014861942,crane,517,0.00906708
+garbagetruck_20.jpg,garbage truck,569,0.3951483,trailer truck,867,0.01636928,crane,517,0.015671577,moving van,675,0.014945743,tow truck,864,0.008850956
+tench_0.jpg,tench,0,0.2569007,barracouta,389,0.039669715,coho,391,0.01426299,gar,395,0.0140957665,reel,758,0.010860456
+englishspringer_58.jpg,plate,923,0.38519806,hen-of-the-woods,996,0.02806415,ice cream,928,0.025922334,chocolate sauce,960,0.012118145,cup,968,0.009631171
+englishspringer_70.jpg,pot,738,0.042185143,bolo tie,451,0.019028373,face powder,551,0.013062204,caldron,469,0.012876498,Petri dish,712,0.012010863
+gaspump_46.jpg,gas pump,571,0.22147101,stopwatch,826,0.05482388,digital watch,531,0.025534319,digital clock,530,0.011790994,vending machine,886,0.010405496
+gaspump_52.jpg,vending machine,886,0.25145096,cash machine,480,0.13996027,gas pump,571,0.009172404,lighter,626,0.008322328,pay-phone,707,0.004294739
+englishspringer_64.jpg,backpack,414,0.051868547,pillow,721,0.039889976,packet,692,0.033423234,tray,868,0.029257614,quilt,750,0.023336332
+golfball_6.jpg,golf ball,574,0.544783,goblet,572,0.001661468,rapeseed,984,0.0015064047,vase,883,0.001390827,beer glass,441,0.0012002016
+gaspump_85.jpg,cash machine,480,0.16745478,gas pump,571,0.0633289,vending machine,886,0.03946182,pay-phone,707,0.019678837,mailbox,637,0.017164752
+gaspump_91.jpg,cash machine,480,0.19654676,vending machine,886,0.08132001,gas pump,571,0.06744913,mailbox,637,0.041796904,pay-phone,707,0.01727571
+frenchhorn_35.jpg,French horn,566,0.5611614,cornet,513,0.0054279356,theater curtain,854,0.0013438947,bassoon,432,0.0012521609,electric guitar,546,0.0011730492
+frenchhorn_21.jpg,French horn,566,0.29597336,bassoon,432,0.003376964,oboe,683,0.001968821,ladle,618,0.0019606468,stage,819,0.0018040274
+church_82.jpg,church,497,0.21445042,altar,406,0.18786003,vault,884,0.1823725,monastery,663,0.01922607,organ,687,0.009763865
+chainsaw_67.jpg,chain saw,491,0.53245616,Leonberg,255,0.0054782885,otterhound,175,0.0043989886,Irish wolfhound,170,0.0037850025,briard,226,0.0032268467
+chainsaw_73.jpg,chain saw,491,0.3915515,swing,843,0.018213311,mountain bike,671,0.018203935,hair slide,584,0.011226838,pole,733,0.0065369736
+church_96.jpg,church,497,0.42478603,bell cote,442,0.037921906,monastery,663,0.015794715,vault,884,0.009712129,dome,538,0.006013049
+golfball_36.jpg,golf ball,574,0.4250791,ping-pong ball,722,0.0031173835,thimble,855,0.0028435793,paper towel,700,0.0022883387,tennis ball,852,0.0021317583
+chainsaw_98.jpg,sundial,835,0.10982617,rule,769,0.056779917,scabbard,777,0.013427641,drumstick,542,0.011191537,pole,733,0.011089762
+church_69.jpg,church,497,0.29075953,vault,884,0.13828124,altar,406,0.10040267,monastery,663,0.023448687,organ,687,0.009658411
+golfball_22.jpg,golf ball,574,0.75155073,thimble,855,0.00070805487,matchstick,644,0.00050574465,remote control,761,0.00046413083,tennis ball,852,0.00044008653
+parachute_22.jpg,parachute,701,0.66028607,balloon,417,0.038460646,flagpole,557,0.008358331,maze,646,0.0015103146,quill,749,0.0014546872
+church_41.jpg,church,497,0.27491778,altar,406,0.18168305,vault,884,0.11067396,organ,687,0.0082908785,monastery,663,0.0067631924
+church_55.jpg,vault,884,0.17188452,altar,406,0.082346454,church,497,0.051023398,library,624,0.024322843,monastery,663,0.020076115
+parachute_36.jpg,parachute,701,0.56143224,nematode,111,0.01449224,flatworm,110,0.0037619802,starfish,327,0.0033645912,sea cucumber,329,0.0017926978
+frenchhorn_85.jpg,French horn,566,0.49307546,cornet,513,0.025591007,trombone,875,0.0034812829,oboe,683,0.001904243,acoustic guitar,402,0.0016531448
+golfball_45.jpg,golf ball,574,0.38377467,leatherback turtle,34,0.001350096,horned viper,66,0.0012958226,ping-pong ball,722,0.0012497003,toy poodle,265,0.0012268479
+golfball_51.jpg,golf ball,574,0.68483216,thimble,855,0.00071880856,binder,446,0.0006301675,goblet,572,0.0006039099,remote control,761,0.0005639693
+parachute_79.jpg,balloon,417,0.45074868,parachute,701,0.061840467,valley,979,0.0056577967,alp,970,0.0036326044,promontory,976,0.00335554
+frenchhorn_91.jpg,French horn,566,0.40037233,cornet,513,0.004320019,trombone,875,0.0018094102,oboe,683,0.0017735881,bassoon,432,0.0016088118
+golfball_79.jpg,golf ball,574,0.44079486,ping-pong ball,722,0.003542639,thimble,855,0.0014120177,tennis ball,852,0.0012552675,Shih-Tzu,155,0.0011268404
+church_32.jpg,church,497,0.4618209,altar,406,0.14955735,vault,884,0.09208559,monastery,663,0.015216991,organ,687,0.007861968
+parachute_51.jpg,parachute,701,0.5410778,valley,979,0.008668467,alp,970,0.0068908343,cliff,972,0.0040755845,steel arch bridge,821,0.003904506
+parachute_45.jpg,parachute,701,0.5144253,balloon,417,0.0016880413,seashore,978,0.001204063,valley,979,0.0011312343,steel arch bridge,821,0.0010483176
+church_26.jpg,bell cote,442,0.34181145,church,497,0.14670043,monastery,663,0.020878514,vault,884,0.0063737067,dome,538,0.0021075066
+frenchhorn_46.jpg,French horn,566,0.37074977,cornet,513,0.005751944,nematode,111,0.0029812846,bassoon,432,0.0028276134,hook,600,0.0018732718
+golfball_86.jpg,golf ball,574,0.4591196,tennis ball,852,0.0016214964,soccer ball,805,0.0016063765,thimble,855,0.0015124859,croquet ball,522,0.0015045446
+chainsaw_28.jpg,gasmask,570,0.17040218,lumbermill,634,0.03509675,shovel,792,0.02069927,can opener,473,0.020385735,hook,600,0.01537431
+golfball_92.jpg,golf ball,574,0.44588912,thimble,855,0.0013604166,ping-pong ball,722,0.0011972957,wombat,106,0.0010261319,doormat,539,0.00098206
+frenchhorn_52.jpg,French horn,566,0.44575348,cornet,513,0.0023661067,trombone,875,0.0021006572,oboe,683,0.0015229073,Mexican hairless,268,0.0014997901
+parachute_92.jpg,parachute,701,0.54367185,motor scooter,670,0.0045249225,prairie chicken,83,0.0025593173,moped,665,0.0018657128,black grouse,80,0.0014176908
+chainsaw_14.jpg,chain saw,491,0.3554669,Irish water spaniel,221,0.025342973,curly-coated retriever,206,0.015809877,Scottish deerhound,177,0.004849685,groom,982,0.004369056
+parachute_86.jpg,parachute,701,0.5692387,balloon,417,0.002573339,valley,979,0.0012212751,flamingo,130,0.0011842978,seashore,978,0.0011392464
+gaspump_35.jpg,gas pump,571,0.10248744,pay-phone,707,0.097638056,cash machine,480,0.09410936,dial telephone,528,0.0076746554,vending machine,886,0.007518591
+church_1.jpg,church,497,0.60216004,bell cote,442,0.053498056,monastery,663,0.019016143,vault,884,0.013144644,palace,698,0.0032563063
+englishspringer_17.jpg,flagpole,557,0.063125215,library,624,0.040468737,palace,698,0.03765362,picket fence,716,0.036343325,lakeside,975,0.034141492
+gaspump_21.jpg,gas pump,571,0.41952398,pay-phone,707,0.009490847,cash machine,480,0.008393491,refrigerator,760,0.0039198375,vending machine,886,0.0032995204
+tench_76.jpg,tench,0,0.4193017,barracouta,389,0.02236843,gar,395,0.009803067,coho,391,0.0063714823,goldfish,1,0.0055965087
+tench_62.jpg,tench,0,0.12198537,coho,391,0.06885233,rock beauty,392,0.042415693,reel,758,0.01932531,barracouta,389,0.018255128
+garbagetruck_47.jpg,garbage truck,569,0.41943523,tow truck,864,0.032938804,trailer truck,867,0.01880743,minibus,654,0.008005472,snowplow,803,0.007858832
+garbagetruck_53.jpg,garbage truck,569,0.45621878,moving van,675,0.09210513,trailer truck,867,0.0783221,snowplow,803,0.01720774,tow truck,864,0.013433276
+cassetteplayer_65.jpg,cassette player,482,0.18118113,cassette,481,0.17889655,tape player,848,0.16106886,radio,754,0.039068617,CD player,485,0.019579234
+cassetteplayer_71.jpg,tape player,848,0.18276967,cassette player,482,0.11869843,CD player,485,0.10615288,radio,754,0.046788853,cassette,481,0.027219307
+cassetteplayer_59.jpg,tape player,848,0.21468319,radio,754,0.09260398,cassette player,482,0.07817739,cassette,481,0.05548645,CD player,485,0.027128106
+tench_89.jpg,tench,0,0.48403952,barracouta,389,0.019878529,eel,390,0.014263813,reel,758,0.0064478,coho,391,0.005892561
+garbagetruck_84.jpg,garbage truck,569,0.23671675,trailer truck,867,0.11256044,moving van,675,0.08305111,ambulance,407,0.03710406,tow truck,864,0.017066687
+garbagetruck_90.jpg,moving van,675,0.1356182,trailer truck,867,0.062493607,garbage truck,569,0.05370611,tow truck,864,0.009292261,pickup,717,0.008368651
+garbagetruck_91.jpg,garbage truck,569,0.39483666,snowplow,803,0.047455285,moving van,675,0.015991356,crane,517,0.012753665,trailer truck,867,0.0065799956
+cassetteplayer_58.jpg,CD player,485,0.2203412,tape player,848,0.13025957,radio,754,0.10359465,cassette player,482,0.07950376,toaster,859,0.015782
+garbagetruck_85.jpg,garbage truck,569,0.19801961,moving van,675,0.05340496,snowplow,803,0.04867931,crane,517,0.040460613,trailer truck,867,0.030829241
+tench_88.jpg,barracouta,389,0.15754606,tench,0,0.15503839,gar,395,0.11358255,electric ray,5,0.03244291,sturgeon,394,0.024180502
+cassetteplayer_70.jpg,tape player,848,0.1863803,CD player,485,0.17441496,radio,754,0.10287912,cassette player,482,0.06373069,cassette,481,0.020697406
+cassetteplayer_64.jpg,tape player,848,0.11950584,cassette,481,0.11034637,cassette player,482,0.10536486,radio,754,0.046795055,CD player,485,0.045997914
+garbagetruck_52.jpg,garbage truck,569,0.42668495,trailer truck,867,0.027459288,tow truck,864,0.022482416,moving van,675,0.01719893,police van,734,0.014641787
+garbagetruck_46.jpg,garbage truck,569,0.20195788,trailer truck,867,0.09059419,moving van,675,0.088746585,tow truck,864,0.05363616,crane,517,0.019160397
+tench_63.jpg,tench,0,0.2746476,reel,758,0.05612664,barracouta,389,0.047573544,coho,391,0.025999373,electric ray,5,0.02139489
+tench_77.jpg,tench,0,0.4265188,barracouta,389,0.03999243,gar,395,0.016214611,electric ray,5,0.00818485,rock beauty,392,0.008169854
+gaspump_20.jpg,cash machine,480,0.15013818,vending machine,886,0.111485,gas pump,571,0.1107361,pay-phone,707,0.008521634,slot,800,0.008112581
+englishspringer_16.jpg,boathouse,449,0.17839159,mobile home,660,0.038125344,lakeside,975,0.026759977,patio,706,0.024658965,picket fence,716,0.01418425
+church_0.jpg,church,497,0.35532722,altar,406,0.18816304,vault,884,0.06364178,organ,687,0.012658672,monastery,663,0.008005654
+gaspump_34.jpg,gas pump,571,0.4343371,slot,800,0.022709342,vending machine,886,0.015515123,cash machine,480,0.0074183433,parking meter,704,0.006839027
+parachute_87.jpg,parachute,701,0.4333846,seashore,978,0.0013824268,flagpole,557,0.0012351854,balloon,417,0.0012012558,Norwich terrier,186,0.0011753384
+chainsaw_15.jpg,scabbard,777,0.09455098,pole,733,0.032004233,hatchet,596,0.025642948,hammer,587,0.023853034,chain saw,491,0.023576593
+parachute_93.jpg,parachute,701,0.5332486,balloon,417,0.09568136,ski,795,0.011913773,flagpole,557,0.0067842323,snowmobile,802,0.00641661
+golfball_93.jpg,golf ball,574,0.45405445,thimble,855,0.006378817,gibbon,368,0.0038212033,ping-pong ball,722,0.0033059446,binder,446,0.0029166944
+frenchhorn_53.jpg,French horn,566,0.62999976,electric guitar,546,0.0010069387,vault,884,0.00096541474,cornet,513,0.00095997134,carpenter's kit,477,0.00089813565
+frenchhorn_47.jpg,French horn,566,0.45529905,cornet,513,0.0035854059,trombone,875,0.0014531983,oboe,683,0.0014197489,table lamp,846,0.0014106396
+chainsaw_29.jpg,chain saw,491,0.6431078,hammer,587,0.0068853735,shovel,792,0.0028344288,hatchet,596,0.0017775317,snowmobile,802,0.0016985266
+golfball_87.jpg,golf ball,574,0.49767792,thimble,855,0.000995333,grocery store,582,0.0008977997,remote control,761,0.0008446129,custard apple,956,0.0008245748
+church_27.jpg,altar,406,0.10660871,church,497,0.08280862,book jacket,921,0.06539962,comic book,917,0.06453356,brass,458,0.035074126
+parachute_44.jpg,parachute,701,0.5248008,valley,979,0.009776931,balloon,417,0.0026284782,lakeside,975,0.0025996347,cliff,972,0.0021919133
+parachute_50.jpg,volcano,980,0.06844673,water snake,58,0.0327487,parachute,701,0.03232023,bow,456,0.02903182,cliff,972,0.018404048
+church_33.jpg,vault,884,0.36559626,church,497,0.13544044,altar,406,0.048903853,monastery,663,0.039815485,organ,687,0.012242317
+golfball_78.jpg,golf ball,574,0.36928412,golden retriever,207,0.0018138124,goblet,572,0.0017276368,dingo,273,0.0016036786,Chesapeake Bay retriever,209,0.0015533116
+parachute_78.jpg,parachute,701,0.47609174,balloon,417,0.008021752,flagpole,557,0.0021975324,panpipe,699,0.0020726218,seashore,978,0.001958488
+golfball_50.jpg,golf ball,574,0.36485285,tennis ball,852,0.0017923156,Maltese dog,153,0.00127659,Bedlington terrier,181,0.001235344,ping-pong ball,722,0.0011675673
+frenchhorn_90.jpg,French horn,566,0.47730702,cornet,513,0.0044953935,bassoon,432,0.0016888356,vault,884,0.0014379161,carpenter's kit,477,0.0012578693
+frenchhorn_84.jpg,French horn,566,0.45225728,racket,752,0.0015690331,bassoon,432,0.0015434396,vault,884,0.0015114591,stage,819,0.0014952676
+golfball_44.jpg,golf ball,574,0.35956234,tennis ball,852,0.0012802958,thimble,855,0.0012050205,croquet ball,522,0.0011565301,ballplayer,981,0.0011557043
+frenchhorn_92.jpg,French horn,566,0.43951583,bassoon,432,0.0018638057,gibbon,368,0.0016704809,vault,884,0.0014223373,electric guitar,546,0.0013378301
+golfball_52.jpg,golf ball,574,0.38052726,thimble,855,0.0057310956,ping-pong ball,722,0.0016738576,gibbon,368,0.0016496695,Shih-Tzu,155,0.0015942736
+church_19.jpg,altar,406,0.19789939,church,497,0.16404675,vault,884,0.13782533,organ,687,0.03382824,monastery,663,0.014387555
+golfball_46.jpg,golf ball,574,0.43128306,tennis ball,852,0.0010998136,thimble,855,0.0010553015,Maltese dog,153,0.0009478468,baseball,429,0.0009265613
+frenchhorn_86.jpg,French horn,566,0.38247582,cornet,513,0.077385865,trombone,875,0.0045947987,bassoon,432,0.0039938656,sax,776,0.0035130873
+parachute_46.jpg,parachute,701,0.52553207,balloon,417,0.00350648,seashore,978,0.0014010285,flagpole,557,0.0013087167,hognose snake,54,0.0012445216
+church_25.jpg,altar,406,0.16135429,church,497,0.08971371,vault,884,0.085703604,organ,687,0.017594649,monastery,663,0.012470431
+church_31.jpg,church,497,0.49070707,bell cote,442,0.059734423,monastery,663,0.010181887,vault,884,0.0060217534,dome,538,0.0036375232
+parachute_52.jpg,parachute,701,0.6348227,seashore,978,0.0013846556,balloon,417,0.00075463596,coral reef,973,0.00069931627,wombat,106,0.00064867426
+frenchhorn_51.jpg,French horn,566,0.43805665,cornet,513,0.0056105824,coil,506,0.0021461092,nematode,111,0.0017209905,carpenter's kit,477,0.0016765055
+golfball_91.jpg,golf ball,574,0.33329064,thimble,855,0.013596441,honeycomb,599,0.010056716,microphone,650,0.006626605,space heater,811,0.003883052
+golfball_85.jpg,golf ball,574,0.4539746,thimble,855,0.0026573082,ping-pong ball,722,0.001445617,Shih-Tzu,155,0.0012956148,tennis ball,852,0.0011317296
+frenchhorn_45.jpg,French horn,566,0.40479875,cornet,513,0.008971215,table lamp,846,0.0029782418,oboe,683,0.0017497205,goblet,572,0.0016724523
+parachute_85.jpg,parachute,701,0.49388477,balloon,417,0.009103799,valley,979,0.0071784426,cliff,972,0.002736538,kite,21,0.0022726986
+parachute_91.jpg,parachute,701,0.54092294,kite,21,0.0026590216,airship,405,0.0019915788,balloon,417,0.0018968326,black grouse,80,0.0014961127
+chainsaw_17.jpg,rule,769,0.2989813,cleaver,499,0.048546627,wallet,893,0.02572021,broom,462,0.02420458,pencil box,709,0.021752171
+frenchhorn_79.jpg,French horn,566,0.4546052,cornet,513,0.024634622,trombone,875,0.0028756848,bassoon,432,0.002294995,sax,776,0.0020495164
+englishspringer_28.jpg,jigsaw puzzle,611,0.13615206,envelope,549,0.07406661,triumphal arch,873,0.03696321,book jacket,921,0.018526163,rule,769,0.014688293
+englishspringer_14.jpg,tray,868,0.4068,shield,787,0.23684324,bolo tie,451,0.005343729,caldron,469,0.0048509054,buckle,464,0.0048145186
+gaspump_22.jpg,gas pump,571,0.24150571,cash machine,480,0.021586873,pay-phone,707,0.010622527,vending machine,886,0.0060885926,mailbox,637,0.002618681
+gaspump_36.jpg,gas pump,571,0.22520655,vending machine,886,0.20755014,cash machine,480,0.025649205,slot,800,0.008166395,pay-phone,707,0.0061192866
+church_2.jpg,church,497,0.32425776,bell cote,442,0.2364121,monastery,663,0.015653366,tile roof,858,0.0047911606,vault,884,0.0021690119
+tench_61.jpg,barracouta,389,0.3743373,gar,395,0.1044024,tench,0,0.084073536,coho,391,0.017033998,reel,758,0.013174438
+garbagetruck_78.jpg,garbage truck,569,0.272252,trailer truck,867,0.13523486,tow truck,864,0.047480658,moving van,675,0.040613387,fire engine,555,0.019348705
+tench_75.jpg,tench,0,0.14938265,barracouta,389,0.07292107,coho,391,0.051040553,reel,758,0.033187196,gar,395,0.03184845
+garbagetruck_50.jpg,garbage truck,569,0.25632477,tow truck,864,0.018656045,snowplow,803,0.016153844,crane,517,0.010149025,trailer truck,867,0.0063445843
+garbagetruck_44.jpg,trailer truck,867,0.17082728,garbage truck,569,0.11668121,moving van,675,0.048161488,freight car,565,0.011296543,mobile home,660,0.0071861045
+tench_49.jpg,tench,0,0.42667544,eel,390,0.044651665,barracouta,389,0.032061856,gar,395,0.029256396,coho,391,0.006546469
+cassetteplayer_99.jpg,tape player,848,0.10130701,CD player,485,0.0885677,radio,754,0.05471168,cassette player,482,0.048378833,reflex camera,759,0.04338249
+cassetteplayer_72.jpg,tape player,848,0.21482734,CD player,485,0.1508773,cassette player,482,0.10974264,cassette,481,0.05244571,radio,754,0.035599723
+cassetteplayer_66.jpg,tape player,848,0.10146552,CD player,485,0.08386731,radio,754,0.07660853,cassette,481,0.073148176,cassette player,482,0.044878848
+garbagetruck_93.jpg,trailer truck,867,0.38826478,moving van,675,0.08045562,garbage truck,569,0.024762522,tow truck,864,0.006988339,crane,517,0.005157118
+garbagetruck_87.jpg,garbage truck,569,0.38446084,tow truck,864,0.055602103,trailer truck,867,0.030397333,snowplow,803,0.0141189415,crane,517,0.012059204
+garbagetruck_86.jpg,crane,517,0.12205409,garbage truck,569,0.050067835,trailer truck,867,0.037299607,tow truck,864,0.032655038,snowplow,803,0.024459662
+garbagetruck_92.jpg,garbage truck,569,0.41181225,ambulance,407,0.008525509,police van,734,0.004132285,trailer truck,867,0.0029140266,snowplow,803,0.0028058712
+cassetteplayer_67.jpg,radio,754,0.116124265,tape player,848,0.11598785,cassette player,482,0.06796945,cassette,481,0.032517593,CD player,485,0.031565122
+cassetteplayer_73.jpg,cassette,481,0.19556032,tape player,848,0.15020199,cassette player,482,0.076374985,CD player,485,0.06707958,radio,754,0.02973523
+tench_48.jpg,barracouta,389,0.29224014,tench,0,0.061093334,gar,395,0.057261705,coho,391,0.020824298,tiger shark,3,0.014607513
+garbagetruck_45.jpg,garbage truck,569,0.7291567,snowplow,803,0.011123221,crane,517,0.009317548,trailer truck,867,0.0084950095,moving van,675,0.0047410103
+cassetteplayer_98.jpg,tape player,848,0.18268476,cassette player,482,0.12825903,cassette,481,0.123659626,CD player,485,0.082253434,printer,742,0.029841984
+garbagetruck_51.jpg,garbage truck,569,0.24140558,moving van,675,0.07633505,trailer truck,867,0.07429857,crane,517,0.015573675,snowplow,803,0.008560762
+tench_74.jpg,tench,0,0.44726804,barracouta,389,0.073260754,rock beauty,392,0.024376249,gar,395,0.022345312,reel,758,0.0075920136
+garbagetruck_79.jpg,garbage truck,569,0.6910682,snowplow,803,0.016655546,trailer truck,867,0.013195541,crane,517,0.009336078,moving van,675,0.009168534
+tench_60.jpg,tench,0,0.40129173,barracouta,389,0.03536038,eel,390,0.033418197,flatworm,110,0.02812549,gar,395,0.013389469
+church_3.jpg,church,497,0.38807574,bell cote,442,0.047685944,web site,916,0.004106951,beacon,437,0.0037081153,monastery,663,0.003518494
+gaspump_37.jpg,gas pump,571,0.32591558,cash machine,480,0.0037307988,vending machine,886,0.0032186932,ashcan,412,0.003141056,ambulance,407,0.0024652127
+gaspump_23.jpg,pay-phone,707,0.1164242,cash machine,480,0.08398258,gas pump,571,0.045185506,vending machine,886,0.009786019,ashcan,412,0.007872916
+englishspringer_15.jpg,starfish,327,0.18609896,pot,738,0.050935756,broccoli,937,0.043750238,earthstar,995,0.009058397,tailed frog,32,0.0042213816
+englishspringer_29.jpg,vestment,887,0.12867409,altar,406,0.06124514,overskirt,689,0.050162807,hoopskirt,601,0.021545619,breastplate,461,0.016580956
+chainsaw_16.jpg,chain saw,491,0.7995709,mountain bike,671,0.0042083585,harvester,595,0.0041438686,assault rifle,413,0.003969469,ski mask,796,0.003096597
+parachute_90.jpg,parachute,701,0.44988742,balloon,417,0.018119823,flagpole,557,0.015150025,umbrella,879,0.0062391586,airship,405,0.0043001897
+frenchhorn_78.jpg,French horn,566,0.43052882,cornet,513,0.0057399487,mixing bowl,659,0.0035185213,trombone,875,0.002200514,dough,961,0.002019203
+parachute_84.jpg,balloon,417,0.30105823,parachute,701,0.18606363,alp,970,0.0026831708,carousel,476,0.0025284544,airship,405,0.0021551352
+golfball_84.jpg,golf ball,574,0.67047817,custard apple,956,0.0015040917,thimble,855,0.00071714737,window screen,904,0.00058553356,remote control,761,0.00057061936
+frenchhorn_44.jpg,French horn,566,0.33209667,cornet,513,0.056348257,trombone,875,0.0037119142,oboe,683,0.0024780054,bassoon,432,0.0020004055
+frenchhorn_50.jpg,French horn,566,0.48262054,cornet,513,0.014595979,trombone,875,0.0028233991,goblet,572,0.0023443294,oboe,683,0.002064096
+golfball_90.jpg,golf ball,574,0.66330755,custard apple,956,0.0018058582,thimble,855,0.00109973,tennis ball,852,0.00077065895,matchstick,644,0.0005891384
+parachute_53.jpg,parachute,701,0.35151207,balloon,417,0.001523121,African grey,87,0.0012436783,flagpole,557,0.0012242404,damselfly,320,0.0012004933
+church_30.jpg,church,497,0.4121945,bell cote,442,0.06399063,monastery,663,0.040181227,vault,884,0.026127415,altar,406,0.010981108
+church_24.jpg,church,497,0.4878265,bell cote,442,0.03264874,monastery,663,0.020184828,vault,884,0.003108829,palace,698,0.0023337041
+parachute_47.jpg,parachute,701,0.78069264,balloon,417,0.0039541093,flagpole,557,0.0015997848,alp,970,0.001583938,airship,405,0.0015736523
+golfball_47.jpg,golf ball,574,0.4868529,croquet ball,522,0.002118445,baseball,429,0.0018906324,tennis ball,852,0.0017733785,ping-pong ball,722,0.0015339945
+frenchhorn_87.jpg,French horn,566,0.6127375,cornet,513,0.007675151,trombone,875,0.0025423006,bassoon,432,0.0013524701,oboe,683,0.0010358336
+frenchhorn_93.jpg,French horn,566,0.44989493,cornet,513,0.027156442,trombone,875,0.0106945,sax,776,0.005314512,bassoon,432,0.003057704
+church_18.jpg,church,497,0.5427094,altar,406,0.13604487,vault,884,0.06819804,monastery,663,0.0047321036,organ,687,0.004365438
+golfball_53.jpg,golf ball,574,0.41262946,thimble,855,0.016955035,microphone,650,0.006890862,strainer,828,0.0036914141,space heater,811,0.0036797696
+parachute_43.jpg,parachute,701,0.80855745,seashore,978,0.0011072273,balloon,417,0.000712545,kite,21,0.0006683213,pelican,144,0.00062960095
+church_20.jpg,vault,884,0.26587656,church,497,0.20380196,altar,406,0.11277307,organ,687,0.013151053,monastery,663,0.012260319
+church_34.jpg,church,497,0.45310345,altar,406,0.04938981,vault,884,0.023642918,monastery,663,0.018597575,bow,456,0.0060893456
+parachute_57.jpg,parachute,701,0.53051037,balloon,417,0.022619808,valley,979,0.0041246894,seashore,978,0.0016251312,lakeside,975,0.0013861862
+golfball_57.jpg,golf ball,574,0.41361424,thimble,855,0.00290835,ping-pong ball,722,0.0018754578,Petri dish,712,0.0018403454,maze,646,0.0017878939
+frenchhorn_97.jpg,French horn,566,0.44148415,cornet,513,0.004074855,table lamp,846,0.0017616388,oboe,683,0.0016924454,trombone,875,0.0012402391
+frenchhorn_83.jpg,French horn,566,0.4718171,electric guitar,546,0.0017397667,bassoon,432,0.0016125697,shopping cart,791,0.0011740284,chain,488,0.0011694697
+golfball_43.jpg,golf ball,574,0.30088365,stole,824,0.007204145,cardigan,474,0.0068188827,paper towel,700,0.0063228607,mitten,658,0.0059483913
+parachute_80.jpg,parachute,701,0.62484974,balloon,417,0.022538126,alp,970,0.021848338,broom,462,0.008590218,gar,395,0.0039395397
+frenchhorn_68.jpg,French horn,566,0.51933694,cornet,513,0.0024164703,mixing bowl,659,0.0014362255,electric guitar,546,0.0014273147,wine bottle,907,0.0013363719
+chainsaw_12.jpg,plow,730,0.21059507,doormat,539,0.024580223,hen-of-the-woods,996,0.012525519,running shoe,770,0.012030882,gar,395,0.009978668
+parachute_94.jpg,parachute,701,0.4577928,balloon,417,0.004114361,valley,979,0.0031575758,broccoli,937,0.0022239753,broom,462,0.0019669163
+golfball_94.jpg,golf ball,574,0.3328268,soccer ball,805,0.0019542298,football helmet,560,0.0016337272,tennis ball,852,0.0016032064,croquet ball,522,0.0015839112
+frenchhorn_54.jpg,French horn,566,0.3844929,cornet,513,0.0530151,trombone,875,0.0057421173,oboe,683,0.002007555,bearskin,439,0.0016856722
+frenchhorn_40.jpg,French horn,566,0.5959815,cornet,513,0.040342815,trombone,875,0.006311415,sax,776,0.0013521415,oboe,683,0.0011846985
+golfball_80.jpg,golf ball,574,0.5321032,loudspeaker,632,0.0014715502,seat belt,785,0.0014306584,thimble,855,0.0011986607,window screen,904,0.0011679217
+englishspringer_11.jpg,poncho,735,0.17843297,prayer rug,741,0.1644675,dishrag,533,0.042440373,quilt,750,0.022461759,wool,911,0.022350263
+gaspump_27.jpg,gas pump,571,0.1615358,vending machine,886,0.030594282,cash machine,480,0.013500242,pay-phone,707,0.007570142,parking meter,704,0.0074082357
+gaspump_33.jpg,gas pump,571,0.33040008,mailbox,637,0.037874468,vending machine,886,0.015666412,cash machine,480,0.009799302,ashcan,412,0.005838594
+church_7.jpg,church,497,0.48870188,monastery,663,0.04425985,bell cote,442,0.03660138,vault,884,0.035815842,palace,698,0.0059536896
+englishspringer_39.jpg,palace,698,0.11698687,picket fence,716,0.087861985,library,624,0.072428785,lakeside,975,0.05185353,boathouse,449,0.04193224
+garbagetruck_55.jpg,garbage truck,569,0.2187784,trailer truck,867,0.009245669,snowplow,803,0.009179774,freight car,565,0.006691055,crane,517,0.0059116366
+tench_58.jpg,coho,391,0.08998086,tench,0,0.054506242,gar,395,0.05392669,barracouta,389,0.033474796,reel,758,0.019444956
+cassetteplayer_88.jpg,cassette,481,0.44180736,cassette player,482,0.05255042,tape player,848,0.050673924,mousetrap,674,0.0025259324,Polaroid camera,732,0.0023769387
+garbagetruck_41.jpg,garbage truck,569,0.5545377,recreational vehicle,757,0.01517432,crane,517,0.0094549665,trailer truck,867,0.0073187808,snowplow,803,0.006945634
+garbagetruck_69.jpg,garbage truck,569,0.09856715,fire engine,555,0.0967204,tow truck,864,0.05222102,trailer truck,867,0.044083513,crane,517,0.019640498
+tench_64.jpg,tench,0,0.41515693,rock beauty,392,0.0022139389,barracouta,389,0.0019793329,reel,758,0.0019441058,pickelhaube,715,0.0016408119
+tench_70.jpg,tench,0,0.20946468,rock beauty,392,0.045772545,goldfish,1,0.015822936,airship,405,0.011578675,barracouta,389,0.007841836
+garbagetruck_96.jpg,garbage truck,569,0.18751575,crane,517,0.102604546,trailer truck,867,0.013896752,snowplow,803,0.010932122,tow truck,864,0.009106825
+garbagetruck_82.jpg,garbage truck,569,0.4441265,snowplow,803,0.0824947,crane,517,0.02749,moving van,675,0.0064966045,trailer truck,867,0.0033165878
+cassetteplayer_77.jpg,tape player,848,0.116206504,cassette player,482,0.07317184,radio,754,0.06200583,CD player,485,0.045787122,modem,662,0.03019808
+cassetteplayer_63.jpg,cassette,481,0.2642742,tape player,848,0.2096124,cassette player,482,0.110584185,hard disc,592,0.013124404,printer,742,0.0059529757
+cassetteplayer_62.jpg,tape player,848,0.14858976,cassette player,482,0.09273585,CD player,485,0.08077595,radio,754,0.07957746,cassette,481,0.0289196
+cassetteplayer_76.jpg,cassette player,482,0.14297423,tape player,848,0.10015168,radio,754,0.06422618,CD player,485,0.056645285,cassette,481,0.032382093
+garbagetruck_83.jpg,trailer truck,867,0.16890924,garbage truck,569,0.12071583,crane,517,0.04129572,passenger car,705,0.03396517,snowplow,803,0.012284637
+garbagetruck_97.jpg,garbage truck,569,0.32950312,snowplow,803,0.007630978,trailer truck,867,0.004112148,harvester,595,0.0026815569,ashcan,412,0.002349164
+tench_71.jpg,barracouta,389,0.23768362,tench,0,0.10032343,gar,395,0.087811455,reel,758,0.011062252,sturgeon,394,0.008491475
+tench_65.jpg,tench,0,0.5084264,reel,758,0.017295616,barracouta,389,0.014329164,rock beauty,392,0.003936903,coho,391,0.0032995334
+garbagetruck_68.jpg,garbage truck,569,0.3253618,moving van,675,0.0056783804,snowplow,803,0.005428336,trailer truck,867,0.0043282947,crane,517,0.0035041957
+garbagetruck_40.jpg,garbage truck,569,0.16421805,snowplow,803,0.15376024,crane,517,0.05087233,trailer truck,867,0.04299484,moving van,675,0.031294044
+tench_59.jpg,tench,0,0.380785,barracouta,389,0.11934302,gar,395,0.028442584,eel,390,0.009698485,coho,391,0.009698166
+garbagetruck_54.jpg,garbage truck,569,0.4852249,moving van,675,0.034889396,trailer truck,867,0.032036617,crane,517,0.013638864,tow truck,864,0.00959492
+cassetteplayer_89.jpg,radio,754,0.13990144,tape player,848,0.10232554,cassette player,482,0.07352863,CD player,485,0.028401345,loudspeaker,632,0.014340053
+englishspringer_38.jpg,cliff,972,0.10584608,stone wall,825,0.07313796,book jacket,921,0.06406113,brass,458,0.02873016,megalith,649,0.016652776
+church_6.jpg,altar,406,0.22977617,church,497,0.12154521,vault,884,0.06609351,organ,687,0.010603545,monastery,663,0.007470319
+gaspump_32.jpg,gas pump,571,0.21875823,cash machine,480,0.062064778,vending machine,886,0.019529479,pop bottle,737,0.007309636,mailbox,637,0.005031276
+gaspump_26.jpg,cash machine,480,0.3009473,gas pump,571,0.12138006,pay-phone,707,0.01879472,vending machine,886,0.014852371,scoreboard,781,0.008173678
+englishspringer_10.jpg,barn,425,0.060630295,beacon,437,0.04116654,thatch,853,0.037390664,prison,743,0.029489629,flagpole,557,0.029270899
+frenchhorn_41.jpg,French horn,566,0.5483695,nematode,111,0.0014728203,coil,506,0.001351483,carpenter's kit,477,0.0013075597,mixing bowl,659,0.0012463608
+golfball_81.jpg,golf ball,574,0.20441923,thimble,855,0.073213816,cup,968,0.0065796804,spotlight,818,0.005806262,rubber eraser,767,0.004682929
+golfball_95.jpg,golf ball,574,0.57299453,book jacket,921,0.0037446532,doormat,539,0.0033563655,switch,844,0.0027333482,honeycomb,599,0.002325515
+frenchhorn_55.jpg,French horn,566,0.5237882,electric guitar,546,0.0014008753,bassoon,432,0.0012826119,vault,884,0.0011466998,pitcher,725,0.0010332944
+parachute_95.jpg,parachute,701,0.60433924,water snake,58,0.0021812741,warplane,895,0.0018181669,valley,979,0.0016958837,steel arch bridge,821,0.001427728
+chainsaw_13.jpg,rule,769,0.04294902,shovel,792,0.03802867,scabbard,777,0.036997933,can opener,473,0.029700024,golf ball,574,0.028373813
+parachute_81.jpg,parachute,701,0.49491742,ant,310,0.0031314767,nematode,111,0.0023902396,common newt,26,0.0012047166,barn spider,73,0.0011571292
+frenchhorn_69.jpg,French horn,566,0.54353034,cornet,513,0.0024908208,bassoon,432,0.0017908255,mixing bowl,659,0.0011943739,coil,506,0.0011626489
+frenchhorn_82.jpg,French horn,566,0.529138,coil,506,0.005974024,nematode,111,0.0030044925,racket,752,0.0015351037,chain,488,0.0014695671
+golfball_42.jpg,golf ball,574,0.320019,thimble,855,0.0021945282,tennis ball,852,0.0018767948,soccer ball,805,0.0018080246,croquet ball,522,0.001607487
+golfball_56.jpg,golf ball,574,0.42163387,thimble,855,0.0035819553,washer,897,0.0016625992,gibbon,368,0.0014942025,street sign,919,0.0013600911
+frenchhorn_96.jpg,French horn,566,0.46210414,cornet,513,0.007866978,bassoon,432,0.0021125246,gibbon,368,0.0016714035,nematode,111,0.001562509
+parachute_56.jpg,parachute,701,0.4222728,balloon,417,0.13581643,wing,908,0.0058128717,space shuttle,812,0.0034306282,alp,970,0.0031534429
+church_35.jpg,vault,884,0.21555094,church,497,0.15984105,altar,406,0.11934596,monastery,663,0.015747342,organ,687,0.0077408752
+church_21.jpg,church,497,0.38590372,bell cote,442,0.15839797,monastery,663,0.022416884,vault,884,0.0051210155,dome,538,0.0016663965
+parachute_42.jpg,parachute,701,0.457435,balloon,417,0.0032389131,seashore,978,0.0022680033,valley,979,0.002162747,lakeside,975,0.0015601871
+church_37.jpg,church,497,0.30180278,bell cote,442,0.01637294,monastery,663,0.015606538,vault,884,0.0090991855,altar,406,0.0071199173
+parachute_54.jpg,parachute,701,0.578607,balloon,417,0.0048758085,valley,979,0.0027712744,seashore,978,0.0023762633,alp,970,0.0016873523
+parachute_40.jpg,parachute,701,0.47335842,balloon,417,0.0014239707,seashore,978,0.0012850733,sleeping bag,797,0.0011318965,water snake,58,0.0011150992
+golfball_68.jpg,golf ball,574,0.27384388,thimble,855,0.0022078995,tennis ball,852,0.0015592056,ping-pong ball,722,0.0013399232,bullfrog,30,0.0013287152
+church_23.jpg,church,497,0.14670391,altar,406,0.143524,vault,884,0.11112068,organ,687,0.024037095,monastery,663,0.012473944
+parachute_68.jpg,parachute,701,0.5501779,balloon,417,0.005660954,sleeping bag,797,0.0034735834,broom,462,0.0014850163,quill,749,0.0013624085
+golfball_40.jpg,golf ball,574,0.19360012,microphone,650,0.050488368,thimble,855,0.031414356,strainer,828,0.0067719747,space heater,811,0.003581734
+frenchhorn_80.jpg,French horn,566,0.41444102,cornet,513,0.0065832534,table lamp,846,0.005193032,oboe,683,0.004662797,goblet,572,0.002859835
+frenchhorn_94.jpg,French horn,566,0.6213543,theater curtain,854,0.0040426413,cornet,513,0.0021006425,coil,506,0.0016759237,bassoon,432,0.0016414847
+golfball_54.jpg,lakeside,975,0.1626962,rapeseed,984,0.10890328,valley,979,0.070440166,golf ball,574,0.03630835,maze,646,0.032561358
+chainsaw_11.jpg,rule,769,0.26899254,can opener,473,0.04902429,corkscrew,512,0.043535914,hammer,587,0.03293065,power drill,740,0.024917176
+parachute_97.jpg,parachute,701,0.4678909,balloon,417,0.010170711,racket,752,0.0019532403,handkerchief,591,0.0016878748,umbrella,879,0.0016585395
+parachute_83.jpg,parachute,701,0.78302765,balloon,417,0.0009098134,valley,979,0.0006618825,nematode,111,0.0006005004,bittern,133,0.0005799355
+golfball_83.jpg,golf ball,574,0.38602504,toy poodle,265,0.0016665962,sidewinder,68,0.0015925718,bighorn,349,0.0015180928,tennis ball,852,0.0014631031
+frenchhorn_43.jpg,French horn,566,0.50457716,cornet,513,0.0126813715,trombone,875,0.0026198667,sax,776,0.0015833124,coil,506,0.0014689985
+frenchhorn_57.jpg,French horn,566,0.61898184,caldron,469,0.0011733497,nematode,111,0.0011732087,coil,506,0.0011359272,bassoon,432,0.0010260773
+chainsaw_39.jpg,chain,488,0.36238223,chain saw,491,0.11476701,hook,600,0.02991165,letter opener,623,0.015782781,knot,616,0.011023196
+golfball_97.jpg,golf ball,574,0.79742795,thimble,855,0.00043410304,ping-pong ball,722,0.00041233178,remote control,761,0.0003734446,tennis ball,852,0.00037336556
+garbagetruck_8.jpg,garbage truck,569,0.33655894,school bus,779,0.018955162,crane,517,0.015505928,tow truck,864,0.009797149,snowplow,803,0.009754773
+gaspump_30.jpg,gas pump,571,0.45435145,cash machine,480,0.018861394,vending machine,886,0.014809903,parking meter,704,0.00504127,mailbox,637,0.004240956
+church_4.jpg,vault,884,0.32129103,altar,406,0.11130386,church,497,0.07412393,organ,687,0.029067151,monastery,663,0.009327667
+englishspringer_12.jpg,lakeside,975,0.09549498,thatch,853,0.06821344,boathouse,449,0.049294572,barn,425,0.025728306,church,497,0.024708247
+gaspump_24.jpg,gas pump,571,0.46312284,cash machine,480,0.0113815265,vending machine,886,0.009307154,mailbox,637,0.004409937,pay-phone,707,0.003408699
+gaspump_18.jpg,gas pump,571,0.17887284,cash machine,480,0.11879878,vending machine,886,0.012779777,minibus,654,0.010106193,pay-phone,707,0.009634836
+garbagetruck_42.jpg,garbage truck,569,0.30442598,tow truck,864,0.019281246,crane,517,0.016439132,trailer truck,867,0.013589068,moving van,675,0.009095543
+garbagetruck_56.jpg,garbage truck,569,0.3438915,moving van,675,0.13403855,trailer truck,867,0.02200024,crane,517,0.020491436,tow truck,864,0.0049683857
+tench_73.jpg,tench,0,0.60756606,broccoli,937,0.0038811385,eel,390,0.0022261438,barracouta,389,0.0018500848,slug,114,0.0017761674
+tench_67.jpg,tench,0,0.16224177,rock beauty,392,0.060193416,goldfish,1,0.0361722,barracouta,389,0.026547382,reel,758,0.019437557
+garbagetruck_81.jpg,garbage truck,569,0.20520833,tow truck,864,0.07057825,crane,517,0.021030527,trailer truck,867,0.018450877,jeep,609,0.017946528
+cassetteplayer_48.jpg,radio,754,0.15118141,tape player,848,0.13277873,CD player,485,0.07751351,cassette player,482,0.057134546,loudspeaker,632,0.029460944
+tench_98.jpg,tench,0,0.38082013,barracouta,389,0.019788872,coho,391,0.01588927,reel,758,0.010914534,gar,395,0.007811591
+garbagetruck_95.jpg,garbage truck,569,0.2933887,crane,517,0.07363498,moving van,675,0.051264264,school bus,779,0.050072093,trailer truck,867,0.03824883
+cassetteplayer_60.jpg,tape player,848,0.2900583,cassette,481,0.27011165,cassette player,482,0.20862758,CD player,485,0.008382982,modem,662,0.005150001
+cassetteplayer_74.jpg,radio,754,0.29451594,CD player,485,0.07576834,tape player,848,0.06624906,loudspeaker,632,0.037067108,cassette player,482,0.03125107
+cassetteplayer_75.jpg,oscilloscope,688,0.1633504,tape player,848,0.032775577,cassette player,482,0.016750697,radio,754,0.011262167,screen,782,0.010918564
+cassetteplayer_61.jpg,tape player,848,0.23626195,cassette player,482,0.09748074,CD player,485,0.05245886,radio,754,0.030612452,cassette,481,0.024173163
+cassetteplayer_49.jpg,cassette,481,0.16513485,tape player,848,0.14626655,cassette player,482,0.088678315,radio,754,0.01707436,CD player,485,0.015503991
+garbagetruck_94.jpg,trailer truck,867,0.20773347,garbage truck,569,0.15612786,moving van,675,0.040538795,snowplow,803,0.0047933296,mobile home,660,0.0043425774
+tench_99.jpg,tench,0,0.36483148,barracouta,389,0.0031485474,ballplayer,981,0.0019336982,coho,391,0.0013657422,spaghetti squash,940,0.0013544298
+garbagetruck_80.jpg,garbage truck,569,0.21275634,trailer truck,867,0.028357422,moving van,675,0.013201257,tow truck,864,0.008017678,crane,517,0.0062512257
+tench_66.jpg,tench,0,0.51398474,barracouta,389,0.034824427,gar,395,0.0057159923,sturgeon,394,0.005540048,coho,391,0.003187118
+tench_72.jpg,tench,0,0.25029626,rock beauty,392,0.046817344,reel,758,0.015350335,anemone fish,393,0.013119401,puffer,397,0.011767035
+garbagetruck_57.jpg,garbage truck,569,0.16810766,crane,517,0.054548055,trailer truck,867,0.051602792,moving van,675,0.044365462,school bus,779,0.025151867
+garbagetruck_43.jpg,garbage truck,569,0.20083238,crane,517,0.12209472,trailer truck,867,0.04429292,tow truck,864,0.021904996,snowplow,803,0.013108246
+gaspump_19.jpg,cash machine,480,0.110399276,slot,800,0.08976103,pay-phone,707,0.027469914,stopwatch,826,0.025822127,gas pump,571,0.01895739
+gaspump_25.jpg,cash machine,480,0.1798809,gas pump,571,0.08977215,vending machine,886,0.026511675,mailbox,637,0.016642792,parking meter,704,0.0107899
+englishspringer_13.jpg,pot,738,0.36924398,daisy,985,0.08299346,greenhouse,580,0.062219396,picket fence,716,0.02899592,cardoon,946,0.02144836
+church_5.jpg,church,497,0.22868489,bell cote,442,0.098863974,monastery,663,0.029509727,dome,538,0.006492383,boathouse,449,0.0060668113
+gaspump_31.jpg,gas pump,571,0.20810105,mailbox,637,0.08442118,vending machine,886,0.05899503,ashcan,412,0.040946763,cash machine,480,0.019041251
+garbagetruck_9.jpg,garbage truck,569,0.464254,snowplow,803,0.015166304,trailer truck,867,0.0017690617,harvester,595,0.0015027511,hook,600,0.0012260876
+frenchhorn_56.jpg,French horn,566,0.54117155,cornet,513,0.0024995443,trombone,875,0.0013782098,vault,884,0.0012586989,oboe,683,0.0010643954
+golfball_96.jpg,golf ball,574,0.4682105,thimble,855,0.0027206778,honeycomb,599,0.0025553282,goblet,572,0.0018415049,vase,883,0.0017440756
+chainsaw_38.jpg,chain saw,491,0.4680215,lumbermill,634,0.017332757,disk brake,535,0.0129342005,reel,758,0.010769556,swab,840,0.0069385464
+golfball_82.jpg,golf ball,574,0.6229468,gibbon,368,0.0013794664,thimble,855,0.00096416177,ping-pong ball,722,0.00086189894,Petri dish,712,0.00075534766
+frenchhorn_42.jpg,French horn,566,0.51713175,cornet,513,0.015055865,trombone,875,0.0093876235,sax,776,0.0033887574,bassoon,432,0.0015024667
+parachute_82.jpg,parachute,701,0.53297997,valley,979,0.008201516,quill,749,0.006354356,alp,970,0.0041263634,steel arch bridge,821,0.0029006745
+parachute_96.jpg,parachute,701,0.4573602,balloon,417,0.020212485,airship,405,0.001727384,Chesapeake Bay retriever,209,0.0013814572,hotdog,934,0.0013619055
+chainsaw_10.jpg,rule,769,0.51036274,chain saw,491,0.012126444,can opener,473,0.009869181,hammer,587,0.008973196,hook,600,0.006966899
+frenchhorn_95.jpg,French horn,566,0.4015897,cornet,513,0.0078000254,bassoon,432,0.0027679484,gibbon,368,0.0023114595,hair slide,584,0.0020540047
+golfball_55.jpg,golf ball,574,0.64190716,thimble,855,0.0010163471,tennis ball,852,0.00071908423,ping-pong ball,722,0.0006805222,remote control,761,0.0006122793
+golfball_41.jpg,chain mail,490,0.40665612,chainlink fence,489,0.079624824,tile roof,858,0.055717044,strainer,828,0.027667766,doormat,539,0.009905185
+parachute_69.jpg,parachute,701,0.14720957,balloon,417,0.069092564,knot,616,0.0049368623,theater curtain,854,0.0022485277,black grouse,80,0.0021223908
+frenchhorn_81.jpg,French horn,566,0.5581002,cornet,513,0.0052712024,chain,488,0.002291529,trombone,875,0.0022609471,magnetic compass,635,0.001513629
+church_22.jpg,vault,884,0.22215798,altar,406,0.15032828,church,497,0.13641414,monastery,663,0.013166292,organ,687,0.009591661
+golfball_69.jpg,golf ball,574,0.42870036,vase,883,0.0020632155,thimble,855,0.0018585494,soccer ball,805,0.0018575324,ashcan,412,0.0017263587
+parachute_41.jpg,parachute,701,0.5620031,balloon,417,0.00825433,alp,970,0.0024005966,valley,979,0.0019244511,space shuttle,812,0.0012914425
+parachute_55.jpg,parachute,701,0.5138852,valley,979,0.008061163,balloon,417,0.0053287465,alp,970,0.0033372943,cliff,972,0.0031454612
+church_36.jpg,church,497,0.32879758,monastery,663,0.079677604,bell cote,442,0.060615264,vault,884,0.006120951,dome,538,0.0053303903
