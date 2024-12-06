@@ -19,12 +19,14 @@ class_list = [
     "French horn",
 ]
 
+N_IMGS = 1
+
 
 def main(args):
 
     diffuser = StableDiffuser(scheduler="DDIM").to("cuda")
     erase_concept = args.erase_concept
-    esd_path = f"models/esd-{erase_concept.lower().replace(' ','')}_from_{erase_concept.lower().replace(' ','')}-{args.train_method}_1-epochs_1000.pt"
+    esd_path = f"{args.model_dir}/esd-{erase_concept.lower().replace(' ','')}_from_{erase_concept.lower().replace(' ','')}-{args.train_method}_1-epochs_{args.epochs}.pt"
     train_method = args.train_method
 
     finetuner = FineTunedModel(diffuser, train_method=train_method)
@@ -34,24 +36,24 @@ def main(args):
     for cls in class_list:
         if args.finetuner:
             with finetuner:
-                for _ in range(10):
+                for _ in range(N_IMGS):
                     images = diffuser(
                         f"an image of a {cls}",
                         img_size=512,
                         n_steps=50,
-                        n_imgs=50,
+                        n_imgs=1,
                         generator=torch.Generator().manual_seed(seed),
                         guidance_scale=7.5,
                     )
                     generated_images[cls] += [image[0] for image in images]
 
         else:
-            for _ in range(10):
+            for _ in range(N_IMGS):
                 images = diffuser(
                     f"an image of a {cls}",
                     img_size=512,
                     n_steps=50,
-                    n_imgs=50,
+                    n_imgs=1,
                     generator=torch.Generator().manual_seed(seed),
                     guidance_scale=7.5,
                 )
@@ -88,6 +90,18 @@ if __name__ == "__main__":
         help="Whether to use stable diffusion or finetuned model",
         action="store_true",
         default=False,
+    )
+    parser.add_argument(
+        "--model_dir",
+        help="Path to directory containing models",
+        type=str,
+        default="models",
+    )
+    parser.add_argument(
+        "--epochs",
+        help="Number of epochs the trained model was trained for",
+        type=int,
+        default=1000,
     )
     args = parser.parse_args()
     main(args)
